@@ -1,1 +1,210 @@
-[{"source": "Rachel Green", "target": "Monica Geller", "value": 113}, {"source": "Rachel Green", "target": "Ross Geller", "value": 109}, {"source": "Ross Geller", "target": "Monica Geller", "value": 107}, {"source": "Joey Tribbiani", "target": "Monica Geller", "value": 103}, {"source": "Chandler Bing", "target": "Monica Geller", "value": 102}, {"source": "Phoebe Buffay", "target": "Monica Geller", "value": 80}, {"source": "Joey Tribbiani", "target": "Ross Geller", "value": 78}, {"source": "Ross Geller", "target": "Rachel Green", "value": 76}, {"source": "Phoebe Buffay", "target": "Ross Geller", "value": 60}, {"source": "Joey Tribbiani", "target": "Rachel Green", "value": 58}, {"source": "Chandler Bing", "target": "Ross Geller", "value": 56}, {"source": "Joey Tribbiani", "target": "Chandler Bing", "value": 55}, {"source": "Monica Geller", "target": "Ross Geller", "value": 52}, {"source": "Phoebe Buffay", "target": "Chandler Bing", "value": 47}, {"source": "Rachel Green", "target": "Joey Tribbiani", "value": 44}, {"source": "Phoebe Buffay", "target": "Rachel Green", "value": 42}, {"source": "Chandler Bing", "target": "Joey Tribbiani", "value": 41}, {"source": "Monica Geller", "target": "Chandler Bing", "value": 39}, {"source": "Rachel Green", "target": "Chandler Bing", "value": 36}, {"source": "Monica Geller", "target": "Joey Tribbiani", "value": 36}, {"source": "Monica Geller", "target": "Rachel Green", "value": 34}, {"source": "Phoebe Buffay", "target": "Joey Tribbiani", "value": 32}, {"source": "Ross Geller", "target": "Chandler Bing", "value": 32}, {"source": "Chandler Bing", "target": "Rachel Green", "value": 29}, {"source": "Ross Geller", "target": "Joey Tribbiani", "value": 23}, {"source": "Monica Geller", "target": "Phoebe Buffay", "value": 23}, {"source": "Chandler Bing", "target": "Phoebe Buffay", "value": 20}, {"source": "Ross Geller", "target": "Phoebe Buffay", "value": 14}, {"source": "Rachel Green", "target": "Phoebe Buffay", "value": 13}, {"source": "Joey Tribbiani", "target": "Phoebe Buffay", "value": 13}]
+{
+    "nodes": [
+        {
+            "id": "Rachel Green",
+            "group": 1
+        },
+        {
+            "id": "Ross Geller",
+            "group": 1
+        },
+        {
+            "id": "Chandler Bing",
+            "group": 1
+        },
+        {
+            "id": "Monica Geller",
+            "group": 1
+        },
+        {
+            "id": "Phoebe Buffay",
+            "group": 1
+        },
+        {
+            "id": "Joey Tribbiani",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Rachel Green",
+            "target": "Monica Geller",
+            "value": 113,
+            "phrases": []
+        },
+        {
+            "source": "Rachel Green",
+            "target": "Ross Geller",
+            "value": 109,
+            "phrases": []
+        },
+        {
+            "source": "Ross Geller",
+            "target": "Monica Geller",
+            "value": 107,
+            "phrases": []
+        },
+        {
+            "source": "Joey Tribbiani",
+            "target": "Monica Geller",
+            "value": 103,
+            "phrases": []
+        },
+        {
+            "source": "Chandler Bing",
+            "target": "Monica Geller",
+            "value": 102,
+            "phrases": []
+        },
+        {
+            "source": "Phoebe Buffay",
+            "target": "Monica Geller",
+            "value": 80,
+            "phrases": []
+        },
+        {
+            "source": "Joey Tribbiani",
+            "target": "Ross Geller",
+            "value": 78,
+            "phrases": []
+        },
+        {
+            "source": "Ross Geller",
+            "target": "Rachel Green",
+            "value": 76,
+            "phrases": []
+        },
+        {
+            "source": "Phoebe Buffay",
+            "target": "Ross Geller",
+            "value": 60,
+            "phrases": []
+        },
+        {
+            "source": "Joey Tribbiani",
+            "target": "Rachel Green",
+            "value": 58,
+            "phrases": []
+        },
+        {
+            "source": "Chandler Bing",
+            "target": "Ross Geller",
+            "value": 56,
+            "phrases": []
+        },
+        {
+            "source": "Joey Tribbiani",
+            "target": "Chandler Bing",
+            "value": 55,
+            "phrases": []
+        },
+        {
+            "source": "Monica Geller",
+            "target": "Ross Geller",
+            "value": 52,
+            "phrases": []
+        },
+        {
+            "source": "Phoebe Buffay",
+            "target": "Chandler Bing",
+            "value": 47,
+            "phrases": []
+        },
+        {
+            "source": "Rachel Green",
+            "target": "Joey Tribbiani",
+            "value": 44,
+            "phrases": []
+        },
+        {
+            "source": "Phoebe Buffay",
+            "target": "Rachel Green",
+            "value": 42,
+            "phrases": []
+        },
+        {
+            "source": "Chandler Bing",
+            "target": "Joey Tribbiani",
+            "value": 41,
+            "phrases": []
+        },
+        {
+            "source": "Monica Geller",
+            "target": "Chandler Bing",
+            "value": 39,
+            "phrases": []
+        },
+        {
+            "source": "Rachel Green",
+            "target": "Chandler Bing",
+            "value": 36,
+            "phrases": []
+        },
+        {
+            "source": "Monica Geller",
+            "target": "Joey Tribbiani",
+            "value": 36,
+            "phrases": []
+        },
+        {
+            "source": "Monica Geller",
+            "target": "Rachel Green",
+            "value": 34,
+            "phrases": []
+        },
+        {
+            "source": "Phoebe Buffay",
+            "target": "Joey Tribbiani",
+            "value": 32,
+            "phrases": []
+        },
+        {
+            "source": "Ross Geller",
+            "target": "Chandler Bing",
+            "value": 32,
+            "phrases": []
+        },
+        {
+            "source": "Chandler Bing",
+            "target": "Rachel Green",
+            "value": 29,
+            "phrases": []
+        },
+        {
+            "source": "Ross Geller",
+            "target": "Joey Tribbiani",
+            "value": 23,
+            "phrases": []
+        },
+        {
+            "source": "Monica Geller",
+            "target": "Phoebe Buffay",
+            "value": 23,
+            "phrases": []
+        },
+        {
+            "source": "Chandler Bing",
+            "target": "Phoebe Buffay",
+            "value": 20,
+            "phrases": []
+        },
+        {
+            "source": "Ross Geller",
+            "target": "Phoebe Buffay",
+            "value": 14,
+            "phrases": []
+        },
+        {
+            "source": "Rachel Green",
+            "target": "Phoebe Buffay",
+            "value": 13,
+            "phrases": []
+        },
+        {
+            "source": "Joey Tribbiani",
+            "target": "Phoebe Buffay",
+            "value": 13,
+            "phrases": []
+        }
+    ]
+}
