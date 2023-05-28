@@ -2,51 +2,949 @@
     "nodes": [
         {
             "id": "Joey Tribbiani",
-            "group": 1
+            "group": 1,
+            "words": [
+                [
+                    "kate",
+                    11.0
+                ],
+                [
+                    "heh",
+                    8.0
+                ],
+                [
+                    "drake",
+                    5.5
+                ],
+                [
+                    "agent",
+                    5.0
+                ],
+                [
+                    "ahhh",
+                    5.0
+                ],
+                [
+                    "ducks",
+                    5.0
+                ],
+                [
+                    "beth",
+                    5.0
+                ],
+                [
+                    "pacino",
+                    4.0
+                ],
+                [
+                    "smell",
+                    4.0
+                ],
+                [
+                    "faster",
+                    4.0
+                ],
+                [
+                    "usually",
+                    4.0
+                ],
+                [
+                    "step",
+                    4.0
+                ],
+                [
+                    "erica",
+                    4.0
+                ],
+                [
+                    "thoughts",
+                    4.0
+                ],
+                [
+                    "acting",
+                    3.6666666666666665
+                ],
+                [
+                    "angela",
+                    3.5
+                ],
+                [
+                    "audition",
+                    3.3333333333333335
+                ],
+                [
+                    "strip",
+                    3.0
+                ],
+                [
+                    "rub",
+                    3.0
+                ],
+                [
+                    "mostly",
+                    3.0
+                ]
+            ]
         },
         {
             "id": "Chandler Bing",
-            "group": 1
+            "group": 1,
+            "words": [
+                [
+                    "eddie",
+                    13.0
+                ],
+                [
+                    "jill",
+                    6.0
+                ],
+                [
+                    "note",
+                    5.0
+                ],
+                [
+                    "dates",
+                    5.0
+                ],
+                [
+                    "needy",
+                    5.0
+                ],
+                [
+                    "danielle",
+                    5.0
+                ],
+                [
+                    "foosball",
+                    5.0
+                ],
+                [
+                    "yasmine",
+                    5.0
+                ],
+                [
+                    "processor",
+                    5.0
+                ],
+                [
+                    "janice",
+                    4.181818181818182
+                ],
+                [
+                    "moments",
+                    4.0
+                ],
+                [
+                    "goodacre",
+                    4.0
+                ],
+                [
+                    "atm",
+                    4.0
+                ],
+                [
+                    "vestibule",
+                    4.0
+                ],
+                [
+                    "commitment",
+                    4.0
+                ],
+                [
+                    "rather",
+                    4.0
+                ],
+                [
+                    "yo",
+                    4.0
+                ],
+                [
+                    "invisible",
+                    4.0
+                ],
+                [
+                    "dull",
+                    4.0
+                ],
+                [
+                    "dropped",
+                    4.0
+                ]
+            ]
         },
         {
             "id": "Ross Geller",
-            "group": 1
+            "group": 1,
+            "words": [
+                [
+                    "barbi",
+                    8.0
+                ],
+                [
+                    "carol",
+                    7.333333333333333
+                ],
+                [
+                    "breast",
+                    6.0
+                ],
+                [
+                    "toy",
+                    6.0
+                ],
+                [
+                    "marcel",
+                    4.4
+                ],
+                [
+                    "chi",
+                    4.0
+                ],
+                [
+                    "rough",
+                    4.0
+                ],
+                [
+                    "quite",
+                    4.0
+                ],
+                [
+                    "wanting",
+                    4.0
+                ],
+                [
+                    "ahem",
+                    4.0
+                ],
+                [
+                    "williamsburg",
+                    4.0
+                ],
+                [
+                    "fold",
+                    4.0
+                ],
+                [
+                    "bottle",
+                    4.0
+                ],
+                [
+                    "humping",
+                    4.0
+                ],
+                [
+                    "evolution",
+                    4.0
+                ],
+                [
+                    "diaper",
+                    4.0
+                ],
+                [
+                    "percent",
+                    4.0
+                ],
+                [
+                    "scotch",
+                    4.0
+                ],
+                [
+                    "tick",
+                    4.0
+                ],
+                [
+                    "gives",
+                    4.0
+                ]
+            ]
         },
         {
             "id": "Rachel Green",
-            "group": 1
+            "group": 1,
+            "words": [
+                [
+                    "mindy",
+                    8.0
+                ],
+                [
+                    "barry",
+                    5.6
+                ],
+                [
+                    "terry",
+                    5.0
+                ],
+                [
+                    "pig",
+                    5.0
+                ],
+                [
+                    "reasons",
+                    5.0
+                ],
+                [
+                    "paolo",
+                    4.0
+                ],
+                [
+                    "ooooh",
+                    4.0
+                ],
+                [
+                    "safe",
+                    4.0
+                ],
+                [
+                    "luisa",
+                    4.0
+                ],
+                [
+                    "asking",
+                    4.0
+                ],
+                [
+                    "names",
+                    4.0
+                ],
+                [
+                    "adding",
+                    4.0
+                ],
+                [
+                    "fashion",
+                    4.0
+                ],
+                [
+                    "daddy",
+                    3.6
+                ],
+                [
+                    "purse",
+                    3.3333333333333335
+                ],
+                [
+                    "sort",
+                    3.25
+                ],
+                [
+                    "boat",
+                    3.0
+                ],
+                [
+                    "boots",
+                    3.0
+                ],
+                [
+                    "serving",
+                    3.0
+                ],
+                [
+                    "engagement",
+                    3.0
+                ]
+            ]
         },
         {
             "id": "Monica Geller",
-            "group": 1
+            "group": 1,
+            "words": [
+                [
+                    "potatoes",
+                    10.0
+                ],
+                [
+                    "michelle",
+                    10.0
+                ],
+                [
+                    "wendy",
+                    7.0
+                ],
+                [
+                    "wild",
+                    5.0
+                ],
+                [
+                    "meat",
+                    5.0
+                ],
+                [
+                    "richard",
+                    4.6
+                ],
+                [
+                    "unfair",
+                    4.0
+                ],
+                [
+                    "lumps",
+                    4.0
+                ],
+                [
+                    "salmon",
+                    4.0
+                ],
+                [
+                    "mousse",
+                    4.0
+                ],
+                [
+                    "chop",
+                    4.0
+                ],
+                [
+                    "brave",
+                    4.0
+                ],
+                [
+                    "places",
+                    4.0
+                ],
+                [
+                    "stock",
+                    4.0
+                ],
+                [
+                    "dollhouse",
+                    4.0
+                ],
+                [
+                    "involve",
+                    4.0
+                ],
+                [
+                    "pete",
+                    3.8333333333333335
+                ],
+                [
+                    "score",
+                    3.5
+                ],
+                [
+                    "bang",
+                    3.5
+                ],
+                [
+                    "sound",
+                    3.3333333333333335
+                ]
+            ]
         },
         {
             "id": "Phoebe Buffay",
-            "group": 1
+            "group": 1,
+            "words": [
+                [
+                    "la",
+                    42.0
+                ],
+                [
+                    "frank",
+                    16.0
+                ],
+                [
+                    "vince",
+                    10.0
+                ],
+                [
+                    "smelly",
+                    9.0
+                ],
+                [
+                    "lily",
+                    7.0
+                ],
+                [
+                    "alive",
+                    6.0
+                ],
+                [
+                    "guitar",
+                    6.0
+                ],
+                [
+                    "ooh",
+                    5.384615384615385
+                ],
+                [
+                    "poor",
+                    5.0
+                ],
+                [
+                    "negative",
+                    5.0
+                ],
+                [
+                    "betty",
+                    5.0
+                ],
+                [
+                    "following",
+                    5.0
+                ],
+                [
+                    "jason",
+                    4.5
+                ],
+                [
+                    "chalk",
+                    4.0
+                ],
+                [
+                    "scary",
+                    4.0
+                ],
+                [
+                    "strong",
+                    4.0
+                ],
+                [
+                    "incredibly",
+                    4.0
+                ],
+                [
+                    "agree",
+                    4.0
+                ],
+                [
+                    "pharmacist",
+                    4.0
+                ],
+                [
+                    "spirit",
+                    4.0
+                ]
+            ]
         },
         {
             "id": "Richard Burke",
-            "group": 2
+            "group": 2,
+            "words": [
+                [
+                    "barbara",
+                    2.0
+                ],
+                [
+                    "tilt",
+                    2.0
+                ],
+                [
+                    "cd",
+                    2.0
+                ],
+                [
+                    "drops",
+                    2.0
+                ],
+                [
+                    "grandpa",
+                    2.0
+                ],
+                [
+                    "oat",
+                    2.0
+                ],
+                [
+                    "leroy",
+                    2.0
+                ],
+                [
+                    "angle",
+                    2.0
+                ],
+                [
+                    "everyting",
+                    1.0
+                ],
+                [
+                    "humm",
+                    1.0
+                ],
+                [
+                    "freckle",
+                    1.0
+                ],
+                [
+                    "jammies",
+                    1.0
+                ],
+                [
+                    "ballpark",
+                    1.0
+                ],
+                [
+                    "john",
+                    1.0
+                ],
+                [
+                    "savage",
+                    1.0
+                ],
+                [
+                    "voit",
+                    1.0
+                ],
+                [
+                    "matches",
+                    1.0
+                ],
+                [
+                    "charlotte",
+                    1.0
+                ],
+                [
+                    "lou",
+                    1.0
+                ],
+                [
+                    "gehrig",
+                    1.0
+                ]
+            ]
         },
         {
             "id": "Carol Willick",
-            "group": 2
+            "group": 2,
+            "words": [
+                [
+                    "impossible",
+                    2.0
+                ],
+                [
+                    "clown",
+                    2.0
+                ],
+                [
+                    "cramp",
+                    1.5
+                ],
+                [
+                    "paranoid",
+                    1.0
+                ],
+                [
+                    "oberman",
+                    1.0
+                ],
+                [
+                    "opens",
+                    1.0
+                ],
+                [
+                    "instance",
+                    1.0
+                ],
+                [
+                    "minnie",
+                    1.0
+                ],
+                [
+                    "suggesting",
+                    1.0
+                ],
+                [
+                    "abuse",
+                    1.0
+                ],
+                [
+                    "anytime",
+                    1.0
+                ],
+                [
+                    "aim",
+                    1.0
+                ],
+                [
+                    "certainly",
+                    1.0
+                ],
+                [
+                    "pin",
+                    1.0
+                ],
+                [
+                    "partner",
+                    1.0
+                ],
+                [
+                    "complicated",
+                    1.0
+                ],
+                [
+                    "jamie",
+                    1.0
+                ],
+                [
+                    "easier",
+                    1.0
+                ],
+                [
+                    "silly",
+                    1.0
+                ],
+                [
+                    "mama",
+                    1.0
+                ]
+            ]
         },
         {
             "id": "Susan Bunch",
-            "group": 2
+            "group": 2,
+            "words": [
+                [
+                    "minnie",
+                    1.0
+                ],
+                [
+                    "challenge",
+                    1.0
+                ],
+                [
+                    "concept",
+                    1.0
+                ],
+                [
+                    "breath",
+                    1.0
+                ],
+                [
+                    "birth",
+                    1.0
+                ],
+                [
+                    "quartz",
+                    1.0
+                ],
+                [
+                    "threatened",
+                    1.0
+                ],
+                [
+                    "lead",
+                    1.0
+                ],
+                [
+                    "became",
+                    1.0
+                ],
+                [
+                    "female",
+                    1.0
+                ],
+                [
+                    "blanket",
+                    1.0
+                ],
+                [
+                    "ski",
+                    1.0
+                ],
+                [
+                    "kicky",
+                    1.0
+                ],
+                [
+                    "dip",
+                    1.0
+                ],
+                [
+                    "literally",
+                    1.0
+                ],
+                [
+                    "breathe",
+                    0.75
+                ],
+                [
+                    "singing",
+                    0.6666666666666666
+                ],
+                [
+                    "college",
+                    0.6666666666666666
+                ],
+                [
+                    "sperm",
+                    0.5
+                ],
+                [
+                    "folks",
+                    0.5
+                ]
+            ]
         },
         {
             "id": "Janice Litman Goralnik",
-            "group": 2
+            "group": 2,
+            "words": [
+                [
+                    "bullwinkle",
+                    2.0
+                ],
+                [
+                    "rocky",
+                    2.0
+                ],
+                [
+                    "barley",
+                    2.0
+                ],
+                [
+                    "valentine",
+                    1.5
+                ],
+                [
+                    "vegetables",
+                    1.0
+                ],
+                [
+                    "mix",
+                    1.0
+                ],
+                [
+                    "squirrel",
+                    1.0
+                ],
+                [
+                    "diet",
+                    1.0
+                ],
+                [
+                    "camera",
+                    1.0
+                ],
+                [
+                    "pictures",
+                    1.0
+                ],
+                [
+                    "puppets",
+                    1.0
+                ],
+                [
+                    "enjoyed",
+                    1.0
+                ],
+                [
+                    "ending",
+                    1.0
+                ],
+                [
+                    "whose",
+                    1.0
+                ],
+                [
+                    "seek",
+                    1.0
+                ],
+                [
+                    "deep",
+                    1.0
+                ],
+                [
+                    "soul",
+                    1.0
+                ],
+                [
+                    "foghorn",
+                    1.0
+                ],
+                [
+                    "helloo",
+                    1.0
+                ],
+                [
+                    "expression",
+                    1.0
+                ]
+            ]
         },
         {
             "id": "Peter Becker",
-            "group": 2
-        },
-        {
-            "id": "Judy Geller",
-            "group": 2
+            "group": 2,
+            "words": [
+                [
+                    "physical",
+                    2.0
+                ],
+                [
+                    "training",
+                    2.0
+                ],
+                [
+                    "superman",
+                    2.0
+                ],
+                [
+                    "ultimate",
+                    1.6666666666666667
+                ],
+                [
+                    "fighting",
+                    1.6666666666666667
+                ],
+                [
+                    "moss",
+                    1.5
+                ],
+                [
+                    "slice",
+                    1.0
+                ],
+                [
+                    "given",
+                    1.0
+                ],
+                [
+                    "smaller",
+                    1.0
+                ],
+                [
+                    "pin",
+                    1.0
+                ],
+                [
+                    "fights",
+                    1.0
+                ],
+                [
+                    "meal",
+                    1.0
+                ],
+                [
+                    "bon",
+                    1.0
+                ],
+                [
+                    "differently",
+                    1.0
+                ],
+                [
+                    "depressing",
+                    1.0
+                ],
+                [
+                    "skates",
+                    1.0
+                ],
+                [
+                    "ann",
+                    1.0
+                ],
+                [
+                    "peanuts",
+                    1.0
+                ],
+                [
+                    "stands",
+                    1.0
+                ],
+                [
+                    "competition",
+                    1.0
+                ]
+            ]
         }
     ],
     "links": [
@@ -96,10 +994,6 @@
                     4.5
                 ],
                 [
-                    "always",
-                    4.5
-                ],
-                [
                     "forever",
                     4.0
                 ],
@@ -134,6 +1028,10 @@
                 [
                     "kill",
                     4.0
+                ],
+                [
+                    "stay",
+                    3.5
                 ]
             ]
         },
@@ -369,10 +1267,6 @@
                     1.0
                 ],
                 [
-                    "drink",
-                    1.0
-                ],
-                [
                     "hanging",
                     1.0
                 ],
@@ -395,6 +1289,10 @@
                 [
                     "sweet",
                     1.0
+                ],
+                [
+                    "emotional",
+                    1.0
                 ]
             ]
         },
@@ -405,7 +1303,7 @@
             "phrases": [
                 [
                     "read",
-                    5.0
+                    2.5
                 ],
                 [
                     "reading",
@@ -598,6 +1496,10 @@
                     1.0
                 ],
                 [
+                    "flash",
+                    1.0
+                ],
+                [
                     "train",
                     1.0
                 ],
@@ -651,10 +1553,6 @@
                 ],
                 [
                     "cotton",
-                    1.0
-                ],
-                [
-                    "sale",
                     1.0
                 ]
             ]
@@ -970,6 +1868,10 @@
                     5.0
                 ],
                 [
+                    "purse",
+                    5.0
+                ],
+                [
                     "ross",
                     4.7
                 ],
@@ -1000,10 +1902,6 @@
                 [
                     "turn",
                     4.0
-                ],
-                [
-                    "green",
-                    4.0
                 ]
             ]
         },
@@ -1013,84 +1911,84 @@
             "value": 277,
             "phrases": [
                 [
+                    "judy",
+                    4.0
+                ],
+                [
+                    "mom",
+                    2.0
+                ],
+                [
+                    "news",
+                    2.0
+                ],
+                [
+                    "passed",
+                    2.0
+                ],
+                [
                     "everyone",
                     2.0
                 ],
                 [
-                    "body",
-                    1.0
-                ],
-                [
-                    "water",
-                    1.0
-                ],
-                [
-                    "gee",
-                    1.0
-                ],
-                [
-                    "geller",
-                    1.0
-                ],
-                [
-                    "gone",
-                    1.0
-                ],
-                [
-                    "takin",
-                    1.0
-                ],
-                [
-                    "nap",
-                    1.0
-                ],
-                [
-                    "hang",
-                    1.0
-                ],
-                [
-                    "write",
-                    1.0
+                    "dance",
+                    2.0
                 ],
                 [
                     "drink",
+                    2.0
+                ],
+                [
+                    "relax",
+                    1.5
+                ],
+                [
+                    "restaurant",
                     1.0
                 ],
                 [
-                    "tea",
+                    "spaghetti",
                     1.0
                 ],
                 [
-                    "dance",
+                    "sound",
                     1.0
                 ],
                 [
-                    "field",
+                    "unbelievably",
                     1.0
                 ],
                 [
-                    "starting",
+                    "selfish",
                     1.0
                 ],
                 [
-                    "fire",
-                    0.75
+                    "heat",
+                    1.0
                 ],
                 [
-                    "leave",
-                    0.6666666666666666
+                    "spent",
+                    1.0
                 ],
                 [
-                    "number",
-                    0.6666666666666666
+                    "thousand",
+                    1.0
                 ],
                 [
-                    "fun",
-                    0.6
+                    "shoot",
+                    1.0
                 ],
                 [
-                    "boat",
-                    0.5
+                    "stars",
+                    1.0
+                ],
+                [
+                    "staying",
+                    1.0
+                ],
+                [
+                    "cancer",
+                    1.0
                 ]
             ]
         },
@@ -1144,6 +2042,10 @@
                     1.0
                 ],
                 [
+                    "unbelievably",
+                    1.0
+                ],
+                [
                     "admit",
                     1.0
                 ],
@@ -1174,10 +2076,6 @@
                 [
                     "mix",
                     1.0
-                ],
-                [
-                    "situation",
-                    1.0
                 ]
             ]
         },
@@ -1187,11 +2085,11 @@
             "value": 30,
             "phrases": [
                 [
-                    "susan",
-                    3.0
+                    "lesbian",
+                    2.0
                 ],
                 [
-                    "lesbian",
+                    "pregnant",
                     2.0
                 ],
                 [
@@ -1235,6 +2133,10 @@
                     1.0
                 ],
                 [
+                    "susan",
+                    1.0
+                ],
+                [
                     "coat",
                     1.0
                 ],
@@ -1261,10 +2163,6 @@
                 [
                     "perfect",
                     1.0
-                ],
-                [
-                    "split",
-                    1.0
                 ]
             ]
         },
@@ -1283,7 +2181,7 @@
                 ],
                 [
                     "carol",
-                    1.5
+                    1.0
                 ],
                 [
                     "class",
@@ -1356,93 +2254,6 @@
             ]
         },
         {
-            "source": "Ross Geller",
-            "target": "Judy Geller",
-            "value": 16,
-            "phrases": [
-                [
-                    "shoe",
-                    2.0
-                ],
-                [
-                    "unless",
-                    1.0
-                ],
-                [
-                    "choice",
-                    1.0
-                ],
-                [
-                    "evening",
-                    1.0
-                ],
-                [
-                    "dress",
-                    1.0
-                ],
-                [
-                    "dear",
-                    1.0
-                ],
-                [
-                    "closed",
-                    0.5
-                ],
-                [
-                    "spend",
-                    0.5
-                ],
-                [
-                    "everyone",
-                    0.5
-                ],
-                [
-                    "sec",
-                    0.5
-                ],
-                [
-                    "may",
-                    0.4
-                ],
-                [
-                    "mother",
-                    0.3333333333333333
-                ],
-                [
-                    "coming",
-                    0.3333333333333333
-                ],
-                [
-                    "everything",
-                    0.25
-                ],
-                [
-                    "else",
-                    0.25
-                ],
-                [
-                    "different",
-                    0.25
-                ],
-                [
-                    "show",
-                    0.2
-                ],
-                [
-                    "thought",
-                    0.16666666666666666
-                ],
-                [
-                    "sweetie",
-                    0.16666666666666666
-                ],
-                [
-                    "nice",
-                    0.125
-                ]
-            ]
-        },
-        {
             "source": "Rachel Green",
             "target": "Monica Geller",
             "value": 316,
@@ -1480,10 +2291,6 @@
                     3.0
                 ],
                 [
-                    "mother",
-                    3.0
-                ],
-                [
                     "barry",
                     3.0
                 ],
@@ -1498,10 +2305,6 @@
                 [
                     "monica",
                     2.5
-                ],
-                [
-                    "mon",
-                    2.0
                 ],
                 [
                     "walk",
@@ -1520,11 +2323,19 @@
                     2.0
                 ],
                 [
+                    "unless",
+                    2.0
+                ],
+                [
                     "instead",
                     2.0
                 ],
                 [
                     "cute",
+                    2.0
+                ],
+                [
+                    "doctor",
                     2.0
                 ]
             ]
@@ -1579,10 +2390,6 @@
                     2.0
                 ],
                 [
-                    "mom",
-                    1.5
-                ],
-                [
                     "girl",
                     1.3333333333333333
                 ],
@@ -1612,6 +2419,10 @@
                 ],
                 [
                     "music",
+                    1.0
+                ],
+                [
+                    "buffay",
                     1.0
                 ]
             ]
@@ -1698,7 +2509,7 @@
                     1.1
                 ],
                 [
-                    "news",
+                    "hearts",
                     1.0
                 ]
             ]
@@ -1864,15 +2675,15 @@
                     1.0
                 ],
                 [
+                    "heat",
+                    1.0
+                ],
+                [
                     "admit",
                     1.0
                 ],
                 [
                     "relationship",
-                    1.0
-                ],
-                [
-                    "customer",
                     1.0
                 ]
             ]
