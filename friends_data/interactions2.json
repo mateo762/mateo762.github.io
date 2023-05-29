@@ -85,7 +85,7 @@
                     4.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Ross Geller",
                     53
@@ -185,7 +185,7 @@
                     5.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Kathy",
                     37
@@ -285,7 +285,7 @@
                     5.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Ross Geller",
                     24
@@ -385,7 +385,7 @@
                     4.5
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Emily Waltham",
                     45
@@ -485,7 +485,7 @@
                     4.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Ross Geller",
                     79
@@ -585,7 +585,7 @@
                     5.25
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Ross Geller",
                     48
@@ -685,7 +685,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": []
+            "gossips": []
         },
         {
             "id": "Gunther",
@@ -772,7 +772,7 @@
                     0.5
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Rachel Green",
                     2
@@ -864,7 +864,7 @@
                     0.7
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Jack Geller",
                     9
@@ -964,7 +964,7 @@
                     0.6666666666666666
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Susan Bunch",
                     5
@@ -1064,7 +1064,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Jack Geller",
                     1
@@ -1156,7 +1156,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Chandler Bing",
                     3
@@ -1256,7 +1256,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Judy Geller",
                     2
@@ -1348,7 +1348,7 @@
                     0.3333333333333333
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Carol Willick",
                     3
@@ -1440,7 +1440,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": []
+            "gossips": []
         },
         {
             "id": "Mona",
@@ -1527,7 +1527,7 @@
                     0.3333333333333333
                 ]
             ],
-            "gossip_targets": []
+            "gossips": []
         },
         {
             "id": "Tag Jones",
@@ -1614,7 +1614,7 @@
                     0.3333333333333333
                 ]
             ],
-            "gossip_targets": []
+            "gossips": []
         },
         {
             "id": "Elizabeth Stevens",
@@ -1701,7 +1701,7 @@
                     0.3333333333333333
                 ]
             ],
-            "gossip_targets": []
+            "gossips": []
         },
         {
             "id": "Kathy",
@@ -1788,7 +1788,7 @@
                     0.25
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Joey Tribbiani",
                     2
@@ -1880,7 +1880,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Rachel Green",
                     2
@@ -1980,7 +1980,7 @@
                     1.0
                 ]
             ],
-            "gossip_targets": [
+            "gossips": [
                 [
                     "Ross Geller",
                     2
