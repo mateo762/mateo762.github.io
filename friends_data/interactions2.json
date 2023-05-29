@@ -84,6 +84,20 @@
                     "harm",
                     4.0
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Ross Geller",
+                    53
+                ],
+                [
+                    "Richard Burke",
+                    27
+                ],
+                [
+                    "Emily Waltham",
+                    20
+                ]
             ]
         },
         {
@@ -169,6 +183,20 @@
                 [
                     "adopted",
                     5.0
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Kathy",
+                    37
+                ],
+                [
+                    "Janice Litman Goralnik",
+                    35
+                ],
+                [
+                    "Ross Geller",
+                    27
                 ]
             ]
         },
@@ -256,6 +284,20 @@
                     "writers",
                     5.0
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Ross Geller",
+                    24
+                ],
+                [
+                    "Chandler Bing",
+                    22
+                ],
+                [
+                    "Rachel Green",
+                    21
+                ]
             ]
         },
         {
@@ -341,6 +383,20 @@
                 [
                     "marcel",
                     4.5
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Emily Waltham",
+                    45
+                ],
+                [
+                    "Carol Willick",
+                    44
+                ],
+                [
+                    "Rachel Green",
+                    36
                 ]
             ]
         },
@@ -428,6 +484,20 @@
                     "serving",
                     4.0
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Ross Geller",
+                    79
+                ],
+                [
+                    "Monica Geller",
+                    17
+                ],
+                [
+                    "Joey Tribbiani",
+                    13
+                ]
             ]
         },
         {
@@ -513,6 +583,20 @@
                 [
                     "buffay",
                     5.25
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Ross Geller",
+                    48
+                ],
+                [
+                    "Joey Tribbiani",
+                    18
+                ],
+                [
+                    "Chandler Bing",
+                    14
                 ]
             ]
         },
@@ -600,7 +684,8 @@
                     "proposal",
                     1.0
                 ]
-            ]
+            ],
+            "gossip_targets": []
         },
         {
             "id": "Gunther",
@@ -685,6 +770,12 @@
                 [
                     "trap",
                     0.5
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Rachel Green",
+                    2
                 ]
             ]
         },
@@ -772,6 +863,20 @@
                     "dear",
                     0.7
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Jack Geller",
+                    9
+                ],
+                [
+                    "Richard Burke",
+                    3
+                ],
+                [
+                    "Rachel Green",
+                    2
+                ]
             ]
         },
         {
@@ -857,6 +962,20 @@
                 [
                     "clown",
                     0.6666666666666666
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Susan Bunch",
+                    5
+                ],
+                [
+                    "Emily Waltham",
+                    2
+                ],
+                [
+                    "Judy Geller",
+                    1
                 ]
             ]
         },
@@ -944,6 +1063,12 @@
                     "matches",
                     1.0
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Jack Geller",
+                    1
+                ]
             ]
         },
         {
@@ -1029,6 +1154,20 @@
                 [
                     "tragedy",
                     1.0
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Chandler Bing",
+                    3
+                ],
+                [
+                    "Ross Geller",
+                    2
+                ],
+                [
+                    "Rachel Green",
+                    1
                 ]
             ]
         },
@@ -1116,6 +1255,12 @@
                     "reflection",
                     1.0
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Judy Geller",
+                    2
+                ]
             ]
         },
         {
@@ -1201,6 +1346,12 @@
                 [
                     "frightening",
                     0.3333333333333333
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Carol Willick",
+                    3
                 ]
             ]
         },
@@ -1288,7 +1439,8 @@
                     "recreate",
                     1.0
                 ]
-            ]
+            ],
+            "gossip_targets": []
         },
         {
             "id": "Mona",
@@ -1374,7 +1526,8 @@
                     "center",
                     0.3333333333333333
                 ]
-            ]
+            ],
+            "gossip_targets": []
         },
         {
             "id": "Tag Jones",
@@ -1460,7 +1613,8 @@
                     "happier",
                     0.3333333333333333
                 ]
-            ]
+            ],
+            "gossip_targets": []
         },
         {
             "id": "Elizabeth Stevens",
@@ -1546,7 +1700,8 @@
                     "noticed",
                     0.3333333333333333
                 ]
-            ]
+            ],
+            "gossip_targets": []
         },
         {
             "id": "Kathy",
@@ -1631,6 +1786,12 @@
                 [
                     "rabbit",
                     0.25
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Joey Tribbiani",
+                    2
                 ]
             ]
         },
@@ -1718,6 +1879,20 @@
                     "kiev",
                     1.0
                 ]
+            ],
+            "gossip_targets": [
+                [
+                    "Rachel Green",
+                    2
+                ],
+                [
+                    "Monica Geller",
+                    2
+                ],
+                [
+                    "Ross Geller",
+                    1
+                ]
             ]
         },
         {
@@ -1803,6 +1978,12 @@
                 [
                     "burnt",
                     1.0
+                ]
+            ],
+            "gossip_targets": [
+                [
+                    "Ross Geller",
+                    2
                 ]
             ]
         }

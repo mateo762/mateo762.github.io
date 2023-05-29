@@ -84,6 +84,20 @@
                     "mostly",
                     3.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Janice Litman Goralnik",
+                    16
+                ],
+                [
+                    "Ross Geller",
+                    16
+                ],
+                [
+                    "Chandler Bing",
+                    14
+                ]
             ]
         },
         {
@@ -169,6 +183,20 @@
                 [
                     "dropped",
                     4.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Janice Litman Goralnik",
+                    35
+                ],
+                [
+                    "Rachel Green",
+                    17
+                ],
+                [
+                    "Ross Geller",
+                    16
                 ]
             ]
         },
@@ -256,6 +284,20 @@
                     "gives",
                     4.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Carol Willick",
+                    42
+                ],
+                [
+                    "Rachel Green",
+                    31
+                ],
+                [
+                    "Susan Bunch",
+                    16
+                ]
             ]
         },
         {
@@ -341,6 +383,20 @@
                 [
                     "engagement",
                     3.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Ross Geller",
+                    51
+                ],
+                [
+                    "Monica Geller",
+                    12
+                ],
+                [
+                    "Joey Tribbiani",
+                    9
                 ]
             ]
         },
@@ -428,6 +484,20 @@
                     "sound",
                     3.3333333333333335
                 ]
+            ],
+            "gossips": [
+                [
+                    "Ross Geller",
+                    41
+                ],
+                [
+                    "Richard Burke",
+                    23
+                ],
+                [
+                    "Peter Becker",
+                    19
+                ]
             ]
         },
         {
@@ -513,6 +583,20 @@
                 [
                     "spirit",
                     4.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Ross Geller",
+                    26
+                ],
+                [
+                    "Joey Tribbiani",
+                    11
+                ],
+                [
+                    "Chandler Bing",
+                    8
                 ]
             ]
         },
@@ -600,7 +684,8 @@
                     "gehrig",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Carol Willick",
@@ -685,6 +770,16 @@
                 [
                     "mama",
                     1.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Susan Bunch",
+                    3
+                ],
+                [
+                    "Rachel Green",
+                    1
                 ]
             ]
         },
@@ -772,6 +867,12 @@
                     "folks",
                     0.5
                 ]
+            ],
+            "gossips": [
+                [
+                    "Carol Willick",
+                    3
+                ]
             ]
         },
         {
@@ -858,6 +959,20 @@
                     "expression",
                     1.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Chandler Bing",
+                    3
+                ],
+                [
+                    "Ross Geller",
+                    2
+                ],
+                [
+                    "Rachel Green",
+                    1
+                ]
             ]
         },
         {
@@ -943,6 +1058,12 @@
                 [
                     "competition",
                     1.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Ross Geller",
+                    2
                 ]
             ]
         }

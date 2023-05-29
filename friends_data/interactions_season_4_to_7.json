@@ -84,6 +84,20 @@
                     "spoil",
                     3.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Emily Waltham",
+                    20
+                ],
+                [
+                    "Ross Geller",
+                    12
+                ],
+                [
+                    "Phoebe Buffay",
+                    7
+                ]
             ]
         },
         {
@@ -169,6 +183,20 @@
                 [
                     "moved",
                     3.6666666666666665
+                ]
+            ],
+            "gossips": [
+                [
+                    "Joey Tribbiani",
+                    15
+                ],
+                [
+                    "Emily Waltham",
+                    14
+                ],
+                [
+                    "Ross Geller",
+                    11
                 ]
             ]
         },
@@ -256,6 +284,20 @@
                     "taller",
                     4.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Chandler Bing",
+                    8
+                ],
+                [
+                    "Ross Geller",
+                    8
+                ],
+                [
+                    "Rachel Green",
+                    7
+                ]
             ]
         },
         {
@@ -341,6 +383,20 @@
                 [
                     "rich",
                     4.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Ross Geller",
+                    22
+                ],
+                [
+                    "Joey Tribbiani",
+                    7
+                ],
+                [
+                    "Chandler Bing",
+                    6
                 ]
             ]
         },
@@ -428,6 +484,20 @@
                     "license",
                     4.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Ross Geller",
+                    28
+                ],
+                [
+                    "Emily Waltham",
+                    13
+                ],
+                [
+                    "Monica Geller",
+                    5
+                ]
             ]
         },
         {
@@ -513,6 +583,20 @@
                 [
                     "holiday",
                     4.0
+                ]
+            ],
+            "gossips": [
+                [
+                    "Emily Waltham",
+                    45
+                ],
+                [
+                    "Rachel Green",
+                    5
+                ],
+                [
+                    "Chandler Bing",
+                    5
                 ]
             ]
         },
@@ -600,6 +684,20 @@
                     "parties",
                     1.0
                 ]
+            ],
+            "gossips": [
+                [
+                    "Rachel Green",
+                    2
+                ],
+                [
+                    "Monica Geller",
+                    2
+                ],
+                [
+                    "Ross Geller",
+                    1
+                ]
             ]
         },
         {
@@ -685,6 +783,12 @@
                 [
                     "cigarettes",
                     0.5
+                ]
+            ],
+            "gossips": [
+                [
+                    "Rachel Green",
+                    1
                 ]
             ]
         },
@@ -772,7 +876,8 @@
                     "reflection",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Judy Geller",
@@ -858,7 +963,8 @@
                     "drug",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Tag Jones",
@@ -944,7 +1050,8 @@
                     "practicing",
                     0.5
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Elizabeth Stevens",
@@ -1030,7 +1137,8 @@
                     "drank",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         }
     ],
     "links": [

@@ -84,7 +84,8 @@
                     "stripper",
                     3.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Chandler Bing",
@@ -170,7 +171,8 @@
                     "toby",
                     3.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Ross Geller",
@@ -256,7 +258,8 @@
                     "hop",
                     3.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Rachel Green",
@@ -342,7 +345,8 @@
                     "beach",
                     3.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Joey Tribbiani",
@@ -428,7 +432,8 @@
                     "pass",
                     3.6666666666666665
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Phoebe Buffay",
@@ -514,7 +519,8 @@
                     "veal",
                     4.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Mike Hannigan",
@@ -600,7 +606,8 @@
                     "writes",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Charlie Wheeler",
@@ -686,7 +693,8 @@
                     "mostly",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         },
         {
             "id": "Mona",
@@ -772,7 +780,8 @@
                     "sets",
                     1.0
                 ]
-            ]
+            ],
+            "gossips": []
         }
     ],
     "links": [
