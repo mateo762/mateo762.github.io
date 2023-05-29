@@ -98,7 +98,8 @@
                     "Chandler Bing",
                     14
                 ]
-            ]
+            ],
+            "description": "Aspiring actor, food enthusiast, and charmer of women. Can be counted on to say 'How you doin'?' at least once per episode."
         },
         {
             "id": "Chandler Bing",
@@ -198,7 +199,8 @@
                     "Ross Geller",
                     16
                 ]
-            ]
+            ],
+            "description": "King of sarcasm, notorious for his inability to cry and his mysteriously vague job in 'data reconfiguration and statistical factoring'."
         },
         {
             "id": "Ross Geller",
@@ -298,7 +300,8 @@
                     "Susan Bunch",
                     16
                 ]
-            ]
+            ],
+            "description": "The dinosaur-loving, three-times divorced palaeontologist with an unyielding love for Rachel."
         },
         {
             "id": "Rachel Green",
@@ -398,7 +401,8 @@
                     "Joey Tribbiani",
                     9
                 ]
-            ]
+            ],
+            "description": "From spoiled daddy's girl to independent fashionista, she's the one Ross has been in love with since ninth grade."
         },
         {
             "id": "Monica Geller",
@@ -498,7 +502,8 @@
                     "Peter Becker",
                     19
                 ]
-            ]
+            ],
+            "description": "The obsessive-compulsive chef with a love for cleaning almost as strong as her competitiveness."
         },
         {
             "id": "Phoebe Buffay",
@@ -598,7 +603,8 @@
                     "Chandler Bing",
                     8
                 ]
-            ]
+            ],
+            "description": "The quirky masseuse/musician who can serenade you with a song about smelly cats or regale you with tales of her bizarre past."
         },
         {
             "id": "Richard Burke",
@@ -685,7 +691,8 @@
                     1.0
                 ]
             ],
-            "gossips": []
+            "gossips": [],
+            "description": "Monica's older, mustachioed ex-boyfriend who makes Chandler incredibly insecure."
         },
         {
             "id": "Carol Willick",
@@ -781,7 +788,8 @@
                     "Rachel Green",
                     1
                 ]
-            ]
+            ],
+            "description": "Ross's first ex-wife, who came out as a lesbian and made Ross a single dad."
         },
         {
             "id": "Susan Bunch",
@@ -873,7 +881,8 @@
                     "Carol Willick",
                     3
                 ]
-            ]
+            ],
+            "description": "Carol's life partner, often at odds with Ross but ultimately part of the same parenting team."
         },
         {
             "id": "Janice Litman Goralnik",
@@ -973,7 +982,8 @@
                     "Rachel Green",
                     1
                 ]
-            ]
+            ],
+            "description": "Chandler's loud and obnoxious on-again, off-again girlfriend. Known for her nasal laugh and the catchphrase, 'OH. MY. GOD.'"
         },
         {
             "id": "Peter Becker",
@@ -1065,7 +1075,8 @@
                     "Ross Geller",
                     2
                 ]
-            ]
+            ],
+            "description": "Monica's millionaire boyfriend with a surprising interest in becoming the Ultimate Fighting Champion."
         }
     ],
     "links": [
