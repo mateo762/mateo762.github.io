@@ -188,7 +188,7 @@
             ],
             "gossips": [
                 [
-                    "Kathy",
+                    "Monica Geller",
                     37
                 ],
                 [
@@ -691,7 +691,12 @@
                     1.0
                 ]
             ],
-            "gossips": [],
+            "gossips": [
+                [
+                    "Phoebe Buffay",
+                    23
+                ]
+            ],
             "description": "Piano-playing divorcee who stole Phoebe's heart and had the courage to name a dog 'Clunkers'."
         },
         {
@@ -1454,7 +1459,12 @@
                     1.0
                 ]
             ],
-            "gossips": [],
+            "gossips": [
+                [
+                    "Rachel Green",
+                    15
+                ]
+            ],
             "description": "Ross's short-term girlfriend, a paleontology professor who eventually falls for Joey."
         },
         {
@@ -1542,7 +1552,12 @@
                     0.3333333333333333
                 ]
             ],
-            "gossips": [],
+            "gossips": [
+                [
+                    "Rachel Green",
+                    23
+                ]
+            ],
             "description": "Ross's girlfriend during Rachel's pregnancy, known for her patience until Ross's life became too crazy."
         },
         {
@@ -1630,7 +1645,12 @@
                     0.3333333333333333
                 ]
             ],
-            "gossips": [],
+            "gossips": [
+                [
+                    "Rachel Green",
+                    3
+                ]
+            ],
             "description": "Rachel's handsome, much younger boyfriend when she worked at Ralph Lauren."
         },
         {
@@ -1720,99 +1740,6 @@
             ],
             "gossips": [],
             "description": "Ross's much younger girlfriend, a student of his, known for her playful and youthful nature."
-        },
-        {
-            "id": "Kathy",
-            "group": 2,
-            "words": [
-                [
-                    "broom",
-                    1.0
-                ],
-                [
-                    "rabbits",
-                    1.0
-                ],
-                [
-                    "grooming",
-                    1.0
-                ],
-                [
-                    "chicago",
-                    1.0
-                ],
-                [
-                    "touchy",
-                    1.0
-                ],
-                [
-                    "insulting",
-                    1.0
-                ],
-                [
-                    "ernie",
-                    0.5
-                ],
-                [
-                    "velveteen",
-                    0.5
-                ],
-                [
-                    "baywatch",
-                    0.5
-                ],
-                [
-                    "apologizing",
-                    0.5
-                ],
-                [
-                    "awhile",
-                    0.5
-                ],
-                [
-                    "partners",
-                    0.3333333333333333
-                ],
-                [
-                    "available",
-                    0.3333333333333333
-                ],
-                [
-                    "haha",
-                    0.3333333333333333
-                ],
-                [
-                    "lit",
-                    0.3333333333333333
-                ],
-                [
-                    "performance",
-                    0.3333333333333333
-                ],
-                [
-                    "scenes",
-                    0.25
-                ],
-                [
-                    "understanding",
-                    0.25
-                ],
-                [
-                    "pen",
-                    0.25
-                ],
-                [
-                    "rabbit",
-                    0.25
-                ]
-            ],
-            "gossips": [
-                [
-                    "Joey Tribbiani",
-                    2
-                ]
-            ],
-            "description": "Joey's girlfriend who Chandler falls for, sparking a brief rift between the best friends."
         },
         {
             "id": "Emily Waltham",
@@ -4487,16 +4414,6 @@
             ]
         },
         {
-            "source": "Rachel Green",
-            "target": "Judy Geller",
-            "value": 31,
-            "phrases": [],
-            "number_words": [
-                0,
-                0
-            ]
-        },
-        {
             "source": "Phoebe Buffay",
             "target": "Mike Hannigan",
             "value": 55,
@@ -4765,8 +4682,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                790,
+                635
             ]
         },
         {
@@ -4856,8 +4773,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                1129,
+                743
             ]
         },
         {
@@ -4947,8 +4864,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                267,
+                215
             ]
         },
         {
@@ -5038,8 +4955,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                1278,
+                1035
             ]
         },
         {
@@ -5129,8 +5046,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                1954,
+                872
             ]
         },
         {
@@ -5220,8 +5137,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                1032,
+                524
             ]
         },
         {
@@ -5311,8 +5228,7 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                
             ]
         },
         {
@@ -5402,8 +5318,8 @@
                 ]
             ],
             "number_words": [
-                0,
-                0
+                885,
+                1198
             ]
         }
     ]
