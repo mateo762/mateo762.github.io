@@ -2083,29 +2083,6 @@
             ]
         },
         {
-            "source": "Chandler Bing",
-            "target": "Judy Geller",
-            "value": 19,
-            "phrases": [
-                [
-                    "text",
-                    1.0
-                ],
-                [
-                    "matches",
-                    1.0
-                ],
-                [
-                    "mateo",
-                    1.0
-                ]
-            ],
-            "number_words": [
-                0,
-                0
-            ]
-        },
-        {
             "source": "Joey Tribbiani",
             "target": "Phoebe Buffay",
             "value": 299,
