@@ -1,0 +1,3935 @@
+{
+    "Ross Geller": {
+        "Peaceful": {
+            "percentage": 0.11791383219954649,
+            "words": [
+                [
+                    "homo",
+                    2.0
+                ],
+                [
+                    "cookies",
+                    2.0
+                ],
+                [
+                    "stopped",
+                    1.0
+                ],
+                [
+                    "crying",
+                    1.0
+                ],
+                [
+                    "yesterday",
+                    1.0
+                ],
+                [
+                    "found",
+                    1.0
+                ],
+                [
+                    "hmm",
+                    1.0
+                ],
+                [
+                    "scene",
+                    1.0
+                ],
+                [
+                    "princess",
+                    1.0
+                ],
+                [
+                    "leia",
+                    1.0
+                ],
+                [
+                    "elizabeth",
+                    1.0
+                ],
+                [
+                    "hurely",
+                    1.0
+                ],
+                [
+                    "green",
+                    1.0
+                ],
+                [
+                    "tried",
+                    1.0
+                ],
+                [
+                    "work",
+                    1.0
+                ],
+                [
+                    "neither",
+                    1.0
+                ],
+                [
+                    "napkin",
+                    1.0
+                ],
+                [
+                    "kids",
+                    1.0
+                ],
+                [
+                    "sapiens",
+                    1.0
+                ],
+                [
+                    "shrieking",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.3333333333333333,
+                "Rachel Green": 0.375,
+                "Phoebe Buffay": 0.5,
+                "Gunther": 1.0,
+                "Joey Tribbiani": 0.25,
+                "Chandler Bing": 0.5,
+                "Carol Willick": 1.0,
+                "Peter Becker": 0.5
+            }
+        },
+        "Joyful": {
+            "percentage": 0.18140589569160998,
+            "words": [
+                [
+                    "guess",
+                    3.0
+                ],
+                [
+                    "real",
+                    2.0
+                ],
+                [
+                    "barbi",
+                    2.0
+                ],
+                [
+                    "days",
+                    2.0
+                ],
+                [
+                    "joke",
+                    2.0
+                ],
+                [
+                    "brown",
+                    2.0
+                ],
+                [
+                    "bird",
+                    2.0
+                ],
+                [
+                    "spacecamp",
+                    2.0
+                ],
+                [
+                    "huh",
+                    1.6666666666666667
+                ],
+                [
+                    "princess",
+                    1.0
+                ],
+                [
+                    "leia",
+                    1.0
+                ],
+                [
+                    "wearing",
+                    1.0
+                ],
+                [
+                    "bikini",
+                    1.0
+                ],
+                [
+                    "takes",
+                    1.0
+                ],
+                [
+                    "pleasure",
+                    1.0
+                ],
+                [
+                    "toy",
+                    1.0
+                ],
+                [
+                    "land",
+                    1.0
+                ],
+                [
+                    "joe",
+                    1.0
+                ],
+                [
+                    "allowed",
+                    1.0
+                ],
+                [
+                    "sleep",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.3333333333333333,
+                "Joey Tribbiani": 1.0,
+                "Chandler Bing": 0.5,
+                "Rachel Green": 0.4375,
+                "Carol Willick": 0.5,
+                "Phoebe Buffay": 0.5,
+                "Peter Becker": 0.5
+            }
+        },
+        "Neutral": {
+            "percentage": 0.24489795918367346,
+            "words": [
+                [
+                    "thinking",
+                    3.0
+                ],
+                [
+                    "many",
+                    3.0
+                ],
+                [
+                    "sell",
+                    3.0
+                ],
+                [
+                    "times",
+                    2.0
+                ],
+                [
+                    "rach",
+                    1.5
+                ],
+                [
+                    "nope",
+                    1.0
+                ],
+                [
+                    "sleep",
+                    1.0
+                ],
+                [
+                    "uniform",
+                    1.0
+                ],
+                [
+                    "school",
+                    1.0
+                ],
+                [
+                    "night",
+                    1.0
+                ],
+                [
+                    "five",
+                    1.0
+                ],
+                [
+                    "fruit",
+                    1.0
+                ],
+                [
+                    "four",
+                    1.0
+                ],
+                [
+                    "susan",
+                    1.0
+                ],
+                [
+                    "allowed",
+                    1.0
+                ],
+                [
+                    "dinosaur",
+                    1.0
+                ],
+                [
+                    "course",
+                    1.0
+                ],
+                [
+                    "went",
+                    1.0
+                ],
+                [
+                    "library",
+                    1.0
+                ],
+                [
+                    "percent",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.6666666666666666,
+                "Chandler Bing": 1.5,
+                "Rachel Green": 0.9375,
+                "Phoebe Buffay": 1.5,
+                "Joey Tribbiani": 0.5,
+                "Susan Bunch": 1.0,
+                "Carol Willick": 1.0,
+                "Peter Becker": 2.0
+            }
+        },
+        "Sad": {
+            "percentage": 0.08163265306122448,
+            "words": [
+                [
+                    "away",
+                    3.0
+                ],
+                [
+                    "marriage",
+                    2.0
+                ],
+                [
+                    "burn",
+                    2.0
+                ],
+                [
+                    "rachel",
+                    1.6666666666666667
+                ],
+                [
+                    "new",
+                    1.5
+                ],
+                [
+                    "feel",
+                    1.3333333333333333
+                ],
+                [
+                    "nooo",
+                    1.0
+                ],
+                [
+                    "return",
+                    1.0
+                ],
+                [
+                    "idiot",
+                    1.0
+                ],
+                [
+                    "shoulda",
+                    1.0
+                ],
+                [
+                    "seen",
+                    1.0
+                ],
+                [
+                    "carol",
+                    1.0
+                ],
+                [
+                    "beautiful",
+                    1.0
+                ],
+                [
+                    "wife",
+                    1.0
+                ],
+                [
+                    "ugh",
+                    1.0
+                ],
+                [
+                    "museum",
+                    1.0
+                ],
+                [
+                    "brunch",
+                    1.0
+                ],
+                [
+                    "along",
+                    1.0
+                ],
+                [
+                    "horrible",
+                    1.0
+                ],
+                [
+                    "lost",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Carol Willick": 1.0,
+                "Rachel Green": 0.5,
+                "Joey Tribbiani": 1.0,
+                "Phoebe Buffay": 0.16666666666666666,
+                "Monica Geller": 0.16666666666666666
+            }
+        },
+        "Scared": {
+            "percentage": 0.17913832199546487,
+            "words": [
+                [
+                    "juice",
+                    4.0
+                ],
+                [
+                    "finally",
+                    3.0
+                ],
+                [
+                    "third",
+                    3.0
+                ],
+                [
+                    "nipple",
+                    3.0
+                ],
+                [
+                    "need",
+                    2.5
+                ],
+                [
+                    "worth",
+                    2.0
+                ],
+                [
+                    "enough",
+                    2.0
+                ],
+                [
+                    "leg",
+                    2.0
+                ],
+                [
+                    "moving",
+                    2.0
+                ],
+                [
+                    "hurt",
+                    2.0
+                ],
+                [
+                    "closed",
+                    2.0
+                ],
+                [
+                    "feeling",
+                    2.0
+                ],
+                [
+                    "song",
+                    1.5
+                ],
+                [
+                    "took",
+                    1.5
+                ],
+                [
+                    "return",
+                    1.0
+                ],
+                [
+                    "mentioning",
+                    1.0
+                ],
+                [
+                    "dressed",
+                    1.0
+                ],
+                [
+                    "aww",
+                    1.0
+                ],
+                [
+                    "broken",
+                    1.0
+                ],
+                [
+                    "dance",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Rachel Green": 0.75,
+                "Phoebe Buffay": 0.6666666666666666,
+                "Joey Tribbiani": 1.0,
+                "Chandler Bing": 0.6666666666666666,
+                "Monica Geller": 1.5,
+                "Carol Willick": 1.0,
+                "Susan Bunch": 1.0
+            }
+        },
+        "Mad": {
+            "percentage": 0.15419501133786848,
+            "words": [
+                [
+                    "minutes",
+                    4.0
+                ],
+                [
+                    "men",
+                    3.0
+                ],
+                [
+                    "knew",
+                    3.0
+                ],
+                [
+                    "relationship",
+                    2.0
+                ],
+                [
+                    "movie",
+                    2.0
+                ],
+                [
+                    "anniversary",
+                    2.0
+                ],
+                [
+                    "talk",
+                    1.5
+                ],
+                [
+                    "anymore",
+                    1.5
+                ],
+                [
+                    "girlfriend",
+                    1.3333333333333333
+                ],
+                [
+                    "never",
+                    1.3333333333333333
+                ],
+                [
+                    "deal",
+                    1.0
+                ],
+                [
+                    "supposed",
+                    1.0
+                ],
+                [
+                    "private",
+                    1.0
+                ],
+                [
+                    "personal",
+                    1.0
+                ],
+                [
+                    "island",
+                    1.0
+                ],
+                [
+                    "ago",
+                    1.0
+                ],
+                [
+                    "hour",
+                    1.0
+                ],
+                [
+                    "whole",
+                    1.0
+                ],
+                [
+                    "dressed",
+                    1.0
+                ],
+                [
+                    "stupid",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Phoebe Buffay": 0.5,
+                "Joey Tribbiani": 0.75,
+                "Susan Bunch": 1.0,
+                "Monica Geller": 0.6666666666666666,
+                "Carol Willick": 1.0,
+                "Rachel Green": 1.0666666666666667,
+                "Gunther": 1.0
+            }
+        },
+        "Powerful": {
+            "percentage": 0.04081632653061224,
+            "words": [
+                [
+                    "seven",
+                    2.0
+                ],
+                [
+                    "toy",
+                    1.0
+                ],
+                [
+                    "doll",
+                    1.0
+                ],
+                [
+                    "chose",
+                    1.0
+                ],
+                [
+                    "years",
+                    1.0
+                ],
+                [
+                    "woman",
+                    1.0
+                ],
+                [
+                    "loved",
+                    1.0
+                ],
+                [
+                    "die",
+                    1.0
+                ],
+                [
+                    "coincidence",
+                    1.0
+                ],
+                [
+                    "kids",
+                    1.0
+                ],
+                [
+                    "bump",
+                    1.0
+                ],
+                [
+                    "heads",
+                    1.0
+                ],
+                [
+                    "figured",
+                    1.0
+                ],
+                [
+                    "power",
+                    1.0
+                ],
+                [
+                    "cities",
+                    1.0
+                ],
+                [
+                    "without",
+                    1.0
+                ],
+                [
+                    "found",
+                    1.0
+                ],
+                [
+                    "wear",
+                    1.0
+                ],
+                [
+                    "suit",
+                    1.0
+                ],
+                [
+                    "year",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Susan Bunch": 1.0,
+                "Carol Willick": 0.5,
+                "Phoebe Buffay": 0.16666666666666666,
+                "Monica Geller": 0.3333333333333333,
+                "Rachel Green": 0.1875,
+                "Joey Tribbiani": 0.25
+            }
+        }
+    },
+    "Monica Geller": {
+        "Scared": {
+            "percentage": 0.148068669527897,
+            "words": [
+                [
+                    "hair",
+                    3.0
+                ],
+                [
+                    "drain",
+                    2.0
+                ],
+                [
+                    "huge",
+                    2.0
+                ],
+                [
+                    "wrong",
+                    2.0
+                ],
+                [
+                    "floor",
+                    2.0
+                ],
+                [
+                    "absolutely",
+                    2.0
+                ],
+                [
+                    "attracted",
+                    2.0
+                ],
+                [
+                    "accept",
+                    2.0
+                ],
+                [
+                    "wan",
+                    1.3333333333333333
+                ],
+                [
+                    "found",
+                    1.0
+                ],
+                [
+                    "throw",
+                    1.0
+                ],
+                [
+                    "gross",
+                    1.0
+                ],
+                [
+                    "try",
+                    1.0
+                ],
+                [
+                    "chandler",
+                    1.0
+                ],
+                [
+                    "bathroom",
+                    1.0
+                ],
+                [
+                    "beautiful",
+                    1.0
+                ],
+                [
+                    "someone",
+                    1.0
+                ],
+                [
+                    "asks",
+                    1.0
+                ],
+                [
+                    "means",
+                    1.0
+                ],
+                [
+                    "sometimes",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Phoebe Buffay": 0.375,
+                "Richard Burke": 0.4,
+                "Rachel Green": 1.0,
+                "Chandler Bing": 1.0,
+                "Joey Tribbiani": 0.75,
+                "Ross Geller": 0.8571428571428571,
+                "Peter Becker": 1.25
+            }
+        },
+        "Sad": {
+            "percentage": 0.08369098712446352,
+            "words": [
+                [
+                    "tired",
+                    3.0
+                ],
+                [
+                    "richard",
+                    1.0
+                ],
+                [
+                    "missing",
+                    1.0
+                ],
+                [
+                    "wondering",
+                    1.0
+                ],
+                [
+                    "called",
+                    1.0
+                ],
+                [
+                    "wanted",
+                    1.0
+                ],
+                [
+                    "moved",
+                    1.0
+                ],
+                [
+                    "understand",
+                    1.0
+                ],
+                [
+                    "charming",
+                    1.0
+                ],
+                [
+                    "yet",
+                    1.0
+                ],
+                [
+                    "idea",
+                    1.0
+                ],
+                [
+                    "pants",
+                    1.0
+                ],
+                [
+                    "sit",
+                    1.0
+                ],
+                [
+                    "conversation",
+                    1.0
+                ],
+                [
+                    "tissue",
+                    1.0
+                ],
+                [
+                    "dog",
+                    1.0
+                ],
+                [
+                    "died",
+                    1.0
+                ],
+                [
+                    "ohhh",
+                    1.0
+                ],
+                [
+                    "brother",
+                    1.0
+                ],
+                [
+                    "realised",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Richard Burke": 0.8,
+                "Jack Geller": 0.3333333333333333,
+                "Chandler Bing": 0.2,
+                "Phoebe Buffay": 0.3125,
+                "Rachel Green": 0.42857142857142855,
+                "Ross Geller": 0.14285714285714285,
+                "Peter Becker": 0.2
+            }
+        },
+        "Mad": {
+            "percentage": 0.13733905579399142,
+            "words": [
+                [
+                    "dress",
+                    2.0
+                ],
+                [
+                    "broke",
+                    2.0
+                ],
+                [
+                    "empty",
+                    2.0
+                ],
+                [
+                    "boobs",
+                    2.0
+                ],
+                [
+                    "suggestion",
+                    2.0
+                ],
+                [
+                    "easy",
+                    2.0
+                ],
+                [
+                    "water",
+                    2.0
+                ],
+                [
+                    "plants",
+                    2.0
+                ],
+                [
+                    "everything",
+                    1.3333333333333333
+                ],
+                [
+                    "woman",
+                    1.0
+                ],
+                [
+                    "deal",
+                    1.0
+                ],
+                [
+                    "used",
+                    1.0
+                ],
+                [
+                    "clothes",
+                    1.0
+                ],
+                [
+                    "live",
+                    1.0
+                ],
+                [
+                    "dingy",
+                    1.0
+                ],
+                [
+                    "started",
+                    1.0
+                ],
+                [
+                    "finish",
+                    1.0
+                ],
+                [
+                    "ordered",
+                    1.0
+                ],
+                [
+                    "bedroom",
+                    1.0
+                ],
+                [
+                    "teacher",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Phoebe Buffay": 0.3125,
+                "Ross Geller": 0.7142857142857143,
+                "Joey Tribbiani": 0.875,
+                "Janice Litman Goralnik": 1.0,
+                "Rachel Green": 0.5714285714285714,
+                "Richard Burke": 0.2,
+                "Chandler Bing": 0.2,
+                "Peter Becker": 0.8
+            }
+        },
+        "Joyful": {
+            "percentage": 0.20815450643776823,
+            "words": [
+                [
+                    "dollhouse",
+                    4.0
+                ],
+                [
+                    "bang",
+                    3.0
+                ],
+                [
+                    "restaurant",
+                    3.0
+                ],
+                [
+                    "plan",
+                    2.0
+                ],
+                [
+                    "wo",
+                    2.0
+                ],
+                [
+                    "shadow",
+                    2.0
+                ],
+                [
+                    "top",
+                    2.0
+                ],
+                [
+                    "bad",
+                    2.0
+                ],
+                [
+                    "saying",
+                    2.0
+                ],
+                [
+                    "even",
+                    2.0
+                ],
+                [
+                    "ben",
+                    2.0
+                ],
+                [
+                    "sooo",
+                    2.0
+                ],
+                [
+                    "cold",
+                    2.0
+                ],
+                [
+                    "spider",
+                    2.0
+                ],
+                [
+                    "kidding",
+                    1.5
+                ],
+                [
+                    "richard",
+                    1.0
+                ],
+                [
+                    "living",
+                    1.0
+                ],
+                [
+                    "went",
+                    1.0
+                ],
+                [
+                    "docks",
+                    1.0
+                ],
+                [
+                    "business",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Jack Geller": 0.6666666666666666,
+                "Ross Geller": 1.1666666666666667,
+                "Richard Burke": 1.25,
+                "Joey Tribbiani": 1.1428571428571428,
+                "Phoebe Buffay": 0.375,
+                "Chandler Bing": 0.8,
+                "Janice Litman Goralnik": 1.0,
+                "Rachel Green": 1.0,
+                "Peter Becker": 0.7333333333333333
+            }
+        },
+        "Powerful": {
+            "percentage": 0.06652360515021459,
+            "words": [
+                [
+                    "bet",
+                    1.0
+                ],
+                [
+                    "working",
+                    1.0
+                ],
+                [
+                    "pee",
+                    1.0
+                ],
+                [
+                    "screwed",
+                    1.0
+                ],
+                [
+                    "switch",
+                    1.0
+                ],
+                [
+                    "nooo",
+                    1.0
+                ],
+                [
+                    "pretend",
+                    1.0
+                ],
+                [
+                    "woke",
+                    1.0
+                ],
+                [
+                    "throw",
+                    1.0
+                ],
+                [
+                    "hat",
+                    1.0
+                ],
+                [
+                    "pearls",
+                    1.0
+                ],
+                [
+                    "spill",
+                    1.0
+                ],
+                [
+                    "threw",
+                    1.0
+                ],
+                [
+                    "year",
+                    1.0
+                ],
+                [
+                    "died",
+                    1.0
+                ],
+                [
+                    "guest",
+                    1.0
+                ],
+                [
+                    "touch",
+                    1.0
+                ],
+                [
+                    "feels",
+                    1.0
+                ],
+                [
+                    "wonder",
+                    1.0
+                ],
+                [
+                    "service",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Richard Burke": 0.4,
+                "Janice Litman Goralnik": 1.0,
+                "Chandler Bing": 0.2,
+                "Ross Geller": 0.5714285714285714,
+                "Phoebe Buffay": 0.25,
+                "Joey Tribbiani": 0.25,
+                "Peter Becker": 0.13333333333333333
+            }
+        },
+        "Neutral": {
+            "percentage": 0.22532188841201717,
+            "words": [
+                [
+                    "involve",
+                    3.0
+                ],
+                [
+                    "julio",
+                    2.0
+                ],
+                [
+                    "clogs",
+                    2.0
+                ],
+                [
+                    "kind",
+                    1.5
+                ],
+                [
+                    "cute",
+                    1.5
+                ],
+                [
+                    "smell",
+                    1.0
+                ],
+                [
+                    "crying",
+                    1.0
+                ],
+                [
+                    "waiting",
+                    1.0
+                ],
+                [
+                    "left",
+                    1.0
+                ],
+                [
+                    "uff",
+                    1.0
+                ],
+                [
+                    "week",
+                    1.0
+                ],
+                [
+                    "heat",
+                    1.0
+                ],
+                [
+                    "coulda",
+                    1.0
+                ],
+                [
+                    "cushion",
+                    1.0
+                ],
+                [
+                    "drink",
+                    1.0
+                ],
+                [
+                    "another",
+                    1.0
+                ],
+                [
+                    "dinosaur",
+                    1.0
+                ],
+                [
+                    "story",
+                    1.0
+                ],
+                [
+                    "extinct",
+                    1.0
+                ],
+                [
+                    "brownies",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Jack Geller": 1.5,
+                "Richard Burke": 0.4,
+                "Joey Tribbiani": 0.875,
+                "Phoebe Buffay": 1.1428571428571428,
+                "Chandler Bing": 0.8,
+                "Rachel Green": 1.0,
+                "Ross Geller": 0.42857142857142855,
+                "Peter Becker": 0.6
+            }
+        },
+        "Peaceful": {
+            "percentage": 0.13090128755364808,
+            "words": [
+                [
+                    "anyone",
+                    2.0
+                ],
+                [
+                    "honey",
+                    1.25
+                ],
+                [
+                    "welcome",
+                    1.0
+                ],
+                [
+                    "side",
+                    1.0
+                ],
+                [
+                    "tunnel",
+                    1.0
+                ],
+                [
+                    "terminal",
+                    1.0
+                ],
+                [
+                    "damage",
+                    1.0
+                ],
+                [
+                    "control",
+                    1.0
+                ],
+                [
+                    "goes",
+                    1.0
+                ],
+                [
+                    "happen",
+                    1.0
+                ],
+                [
+                    "sense",
+                    1.0
+                ],
+                [
+                    "gee",
+                    1.0
+                ],
+                [
+                    "order",
+                    1.0
+                ],
+                [
+                    "date",
+                    1.0
+                ],
+                [
+                    "walk",
+                    1.0
+                ],
+                [
+                    "sound",
+                    1.0
+                ],
+                [
+                    "soon",
+                    1.0
+                ],
+                [
+                    "shirt",
+                    1.0
+                ],
+                [
+                    "club",
+                    1.0
+                ],
+                [
+                    "means",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Chandler Bing": 1.0,
+                "Janice Litman Goralnik": 1.0,
+                "Joey Tribbiani": 0.375,
+                "Phoebe Buffay": 0.875,
+                "Ross Geller": 0.2857142857142857,
+                "Rachel Green": 0.5714285714285714,
+                "Richard Burke": 0.6,
+                "Peter Becker": 0.2
+            }
+        }
+    },
+    "Chandler Bing": {
+        "Neutral": {
+            "percentage": 0.28507795100222716,
+            "words": [
+                [
+                    "boyfriend",
+                    4.0
+                ],
+                [
+                    "chloe",
+                    4.0
+                ],
+                [
+                    "problem",
+                    2.0
+                ],
+                [
+                    "soo",
+                    2.0
+                ],
+                [
+                    "hold",
+                    2.0
+                ],
+                [
+                    "last",
+                    2.0
+                ],
+                [
+                    "came",
+                    2.0
+                ],
+                [
+                    "time",
+                    1.25
+                ],
+                [
+                    "may",
+                    1.0
+                ],
+                [
+                    "stand",
+                    1.0
+                ],
+                [
+                    "catch",
+                    1.0
+                ],
+                [
+                    "says",
+                    1.0
+                ],
+                [
+                    "fast",
+                    1.0
+                ],
+                [
+                    "slow",
+                    1.0
+                ],
+                [
+                    "sophisticated",
+                    1.0
+                ],
+                [
+                    "chelsea",
+                    1.0
+                ],
+                [
+                    "seen",
+                    1.0
+                ],
+                [
+                    "ya",
+                    1.0
+                ],
+                [
+                    "jerk",
+                    1.0
+                ],
+                [
+                    "showed",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Joey Tribbiani": 1.5714285714285714,
+                "Janice Litman Goralnik": 1.4285714285714286,
+                "Ross Geller": 1.0,
+                "Monica Geller": 3.0,
+                "Phoebe Buffay": 1.0,
+                "Rachel Green": 1.0,
+                "Peter Becker": 0.3333333333333333
+            }
+        },
+        "Scared": {
+            "percentage": 0.0935412026726058,
+            "words": [
+                [
+                    "noo",
+                    2.0
+                ],
+                [
+                    "rules",
+                    2.0
+                ],
+                [
+                    "glad",
+                    1.0
+                ],
+                [
+                    "weird",
+                    1.0
+                ],
+                [
+                    "lately",
+                    1.0
+                ],
+                [
+                    "stupid",
+                    1.0
+                ],
+                [
+                    "scared",
+                    1.0
+                ],
+                [
+                    "babbling",
+                    1.0
+                ],
+                [
+                    "divorce",
+                    1.0
+                ],
+                [
+                    "another",
+                    1.0
+                ],
+                [
+                    "chance",
+                    1.0
+                ],
+                [
+                    "ohhh",
+                    1.0
+                ],
+                [
+                    "comes",
+                    1.0
+                ],
+                [
+                    "happening",
+                    1.0
+                ],
+                [
+                    "instead",
+                    1.0
+                ],
+                [
+                    "hitting",
+                    1.0
+                ],
+                [
+                    "goes",
+                    1.0
+                ],
+                [
+                    "nope",
+                    1.0
+                ],
+                [
+                    "rather",
+                    1.0
+                ],
+                [
+                    "lighter",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.5,
+                "Rachel Green": 1.0,
+                "Joey Tribbiani": 0.13636363636363635,
+                "Ross Geller": 0.125,
+                "Phoebe Buffay": 1.0
+            }
+        },
+        "Peaceful": {
+            "percentage": 0.11804008908685969,
+            "words": [
+                [
+                    "fish",
+                    3.0
+                ],
+                [
+                    "makes",
+                    2.0
+                ],
+                [
+                    "drawer",
+                    2.0
+                ],
+                [
+                    "big",
+                    2.0
+                ],
+                [
+                    "coming",
+                    2.0
+                ],
+                [
+                    "birthday",
+                    2.0
+                ],
+                [
+                    "swim",
+                    2.0
+                ],
+                [
+                    "talking",
+                    1.5
+                ],
+                [
+                    "anything",
+                    1.3333333333333333
+                ],
+                [
+                    "stay",
+                    1.0
+                ],
+                [
+                    "appreciate",
+                    1.0
+                ],
+                [
+                    "giving",
+                    1.0
+                ],
+                [
+                    "shot",
+                    1.0
+                ],
+                [
+                    "wanted",
+                    1.0
+                ],
+                [
+                    "actually",
+                    1.0
+                ],
+                [
+                    "goes",
+                    1.0
+                ],
+                [
+                    "chelsea",
+                    1.0
+                ],
+                [
+                    "eh",
+                    1.0
+                ],
+                [
+                    "probably",
+                    1.0
+                ],
+                [
+                    "unless",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.5,
+                "Joey Tribbiani": 0.3181818181818182,
+                "Ross Geller": 0.875,
+                "Monica Geller": 0.3333333333333333,
+                "Rachel Green": 1.0,
+                "Gunther": 2.0
+            }
+        },
+        "Sad": {
+            "percentage": 0.042316258351893093,
+            "words": [
+                [
+                    "leave",
+                    2.0
+                ],
+                [
+                    "age",
+                    2.0
+                ],
+                [
+                    "someone",
+                    1.0
+                ],
+                [
+                    "divorced",
+                    1.0
+                ],
+                [
+                    "scared",
+                    1.0
+                ],
+                [
+                    "awkward",
+                    1.0
+                ],
+                [
+                    "desperate",
+                    1.0
+                ],
+                [
+                    "street",
+                    1.0
+                ],
+                [
+                    "threw",
+                    1.0
+                ],
+                [
+                    "bag",
+                    1.0
+                ],
+                [
+                    "ran",
+                    1.0
+                ],
+                [
+                    "store",
+                    1.0
+                ],
+                [
+                    "ruined",
+                    1.0
+                ],
+                [
+                    "cream",
+                    1.0
+                ],
+                [
+                    "shoe",
+                    1.0
+                ],
+                [
+                    "kids",
+                    1.0
+                ],
+                [
+                    "skating",
+                    1.0
+                ],
+                [
+                    "husband",
+                    1.0
+                ],
+                [
+                    "looked",
+                    1.0
+                ],
+                [
+                    "almost",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.5,
+                "Joey Tribbiani": 0.045454545454545456,
+                "Ross Geller": 0.375,
+                "Rachel Green": 0.3333333333333333,
+                "Peter Becker": 0.3333333333333333
+            }
+        },
+        "Powerful": {
+            "percentage": 0.08908685968819599,
+            "words": [
+                [
+                    "finished",
+                    2.0
+                ],
+                [
+                    "reason",
+                    2.0
+                ],
+                [
+                    "ginger",
+                    2.0
+                ],
+                [
+                    "works",
+                    2.0
+                ],
+                [
+                    "jasmine",
+                    2.0
+                ],
+                [
+                    "run",
+                    2.0
+                ],
+                [
+                    "person",
+                    1.5
+                ],
+                [
+                    "spackel",
+                    1.0
+                ],
+                [
+                    "boy",
+                    1.0
+                ],
+                [
+                    "number",
+                    1.0
+                ],
+                [
+                    "cash",
+                    1.0
+                ],
+                [
+                    "mattress",
+                    1.0
+                ],
+                [
+                    "love",
+                    1.0
+                ],
+                [
+                    "answer",
+                    1.0
+                ],
+                [
+                    "guy",
+                    1.0
+                ],
+                [
+                    "family",
+                    1.0
+                ],
+                [
+                    "split",
+                    1.0
+                ],
+                [
+                    "whenever",
+                    1.0
+                ],
+                [
+                    "hated",
+                    1.0
+                ],
+                [
+                    "arms",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.3,
+                "Joey Tribbiani": 0.18181818181818182,
+                "Rachel Green": 0.6666666666666666,
+                "Ross Geller": 0.375,
+                "Phoebe Buffay": 0.3333333333333333,
+                "Gunther": 0.5,
+                "Peter Becker": 3.0,
+                "Monica Geller": 0.3333333333333333
+            }
+        },
+        "Joyful": {
+            "percentage": 0.23162583518930957,
+            "words": [
+                [
+                    "couple",
+                    3.0
+                ],
+                [
+                    "chick",
+                    3.0
+                ],
+                [
+                    "trip",
+                    2.0
+                ],
+                [
+                    "yep",
+                    2.0
+                ],
+                [
+                    "parents",
+                    2.0
+                ],
+                [
+                    "fly",
+                    2.0
+                ],
+                [
+                    "invisible",
+                    2.0
+                ],
+                [
+                    "ahh",
+                    2.0
+                ],
+                [
+                    "gold",
+                    2.0
+                ],
+                [
+                    "different",
+                    2.0
+                ],
+                [
+                    "ever",
+                    1.5
+                ],
+                [
+                    "two",
+                    1.25
+                ],
+                [
+                    "tickets",
+                    1.0
+                ],
+                [
+                    "taste",
+                    1.0
+                ],
+                [
+                    "ago",
+                    1.0
+                ],
+                [
+                    "mister",
+                    1.0
+                ],
+                [
+                    "happened",
+                    1.0
+                ],
+                [
+                    "meet",
+                    1.0
+                ],
+                [
+                    "move",
+                    1.0
+                ],
+                [
+                    "terminal",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Joey Tribbiani": 0.5,
+                "Janice Litman Goralnik": 0.7,
+                "Rachel Green": 0.6666666666666666,
+                "Monica Geller": 0.16666666666666666,
+                "Ross Geller": 0.25,
+                "Peter Becker": 0.3333333333333333,
+                "Phoebe Buffay": 0.3333333333333333
+            }
+        },
+        "Mad": {
+            "percentage": 0.1403118040089087,
+            "words": [
+                [
+                    "eww",
+                    3.0
+                ],
+                [
+                    "kissing",
+                    3.0
+                ],
+                [
+                    "sitting",
+                    2.0
+                ],
+                [
+                    "mine",
+                    2.0
+                ],
+                [
+                    "change",
+                    2.0
+                ],
+                [
+                    "channel",
+                    2.0
+                ],
+                [
+                    "somebody",
+                    2.0
+                ],
+                [
+                    "long",
+                    2.0
+                ],
+                [
+                    "foot",
+                    2.0
+                ],
+                [
+                    "hole",
+                    2.0
+                ],
+                [
+                    "hours",
+                    2.0
+                ],
+                [
+                    "eye",
+                    2.0
+                ],
+                [
+                    "three",
+                    1.5
+                ],
+                [
+                    "anybody",
+                    1.5
+                ],
+                [
+                    "worry",
+                    1.0
+                ],
+                [
+                    "trying",
+                    1.0
+                ],
+                [
+                    "way",
+                    1.0
+                ],
+                [
+                    "count",
+                    1.0
+                ],
+                [
+                    "rushmore",
+                    1.0
+                ],
+                [
+                    "left",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.7,
+                "Joey Tribbiani": 0.6363636363636364,
+                "Ross Geller": 1.0,
+                "Peter Becker": 0.3333333333333333,
+                "Rachel Green": 0.6666666666666666,
+                "Monica Geller": 0.16666666666666666
+            }
+        }
+    },
+    "Phoebe Buffay": {
+        "Joyful": {
+            "percentage": 0.2231404958677686,
+            "words": [
+                [
+                    "smelly",
+                    4.0
+                ],
+                [
+                    "knock",
+                    3.5
+                ],
+                [
+                    "sergei",
+                    3.0
+                ],
+                [
+                    "vince",
+                    3.0
+                ],
+                [
+                    "best",
+                    2.5
+                ],
+                [
+                    "made",
+                    2.0
+                ],
+                [
+                    "ow",
+                    2.0
+                ],
+                [
+                    "bring",
+                    2.0
+                ],
+                [
+                    "cat",
+                    2.0
+                ],
+                [
+                    "anyway",
+                    2.0
+                ],
+                [
+                    "waxine",
+                    2.0
+                ],
+                [
+                    "high",
+                    2.0
+                ],
+                [
+                    "thank",
+                    1.6666666666666667
+                ],
+                [
+                    "fault",
+                    1.5
+                ],
+                [
+                    "fun",
+                    1.5
+                ],
+                [
+                    "dad",
+                    1.5
+                ],
+                [
+                    "watch",
+                    1.5
+                ],
+                [
+                    "phoebe",
+                    1.5
+                ],
+                [
+                    "guys",
+                    1.25
+                ],
+                [
+                    "um",
+                    1.1111111111111112
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.75,
+                "Joey Tribbiani": 0.7777777777777778,
+                "Ross Geller": 0.5714285714285714,
+                "Chandler Bing": 1.0,
+                "Rachel Green": 0.4,
+                "Peter Becker": 2.0
+            }
+        },
+        "Neutral": {
+            "percentage": 0.24380165289256198,
+            "words": [
+                [
+                    "dumb",
+                    3.0
+                ],
+                [
+                    "around",
+                    3.0
+                ],
+                [
+                    "ooh",
+                    2.0
+                ],
+                [
+                    "looks",
+                    2.0
+                ],
+                [
+                    "seem",
+                    2.0
+                ],
+                [
+                    "behind",
+                    2.0
+                ],
+                [
+                    "op",
+                    2.0
+                ],
+                [
+                    "stuff",
+                    2.0
+                ],
+                [
+                    "commercial",
+                    2.0
+                ],
+                [
+                    "football",
+                    2.0
+                ],
+                [
+                    "sad",
+                    2.0
+                ],
+                [
+                    "strips",
+                    2.0
+                ],
+                [
+                    "barrel",
+                    2.0
+                ],
+                [
+                    "thanks",
+                    1.3333333333333333
+                ],
+                [
+                    "umm",
+                    1.3333333333333333
+                ],
+                [
+                    "said",
+                    1.2
+                ],
+                [
+                    "wait",
+                    1.2
+                ],
+                [
+                    "something",
+                    1.2
+                ],
+                [
+                    "close",
+                    1.0
+                ],
+                [
+                    "young",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.8571428571428571,
+                "Monica Geller": 0.9166666666666666,
+                "Richard Burke": 1.0,
+                "Joey Tribbiani": 1.2857142857142858,
+                "Rachel Green": 1.25,
+                "Chandler Bing": 0.5
+            }
+        },
+        "Mad": {
+            "percentage": 0.10330578512396695,
+            "words": [
+                [
+                    "frank",
+                    4.0
+                ],
+                [
+                    "sick",
+                    3.0
+                ],
+                [
+                    "forget",
+                    3.0
+                ],
+                [
+                    "route",
+                    3.0
+                ],
+                [
+                    "otherwise",
+                    2.0
+                ],
+                [
+                    "babies",
+                    2.0
+                ],
+                [
+                    "fair",
+                    2.0
+                ],
+                [
+                    "hell",
+                    1.5
+                ],
+                [
+                    "ask",
+                    1.0
+                ],
+                [
+                    "move",
+                    1.0
+                ],
+                [
+                    "live",
+                    1.0
+                ],
+                [
+                    "answer",
+                    1.0
+                ],
+                [
+                    "forgot",
+                    1.0
+                ],
+                [
+                    "innocent",
+                    1.0
+                ],
+                [
+                    "cut",
+                    1.0
+                ],
+                [
+                    "dressed",
+                    1.0
+                ],
+                [
+                    "sleep",
+                    1.0
+                ],
+                [
+                    "fulfil",
+                    1.0
+                ],
+                [
+                    "destiny",
+                    1.0
+                ],
+                [
+                    "throw",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.6666666666666666,
+                "Chandler Bing": 1.0,
+                "Joey Tribbiani": 0.4444444444444444,
+                "Ross Geller": 0.14285714285714285,
+                "Peter Becker": 0.5,
+                "Rachel Green": 0.4
+            }
+        },
+        "Powerful": {
+            "percentage": 0.06611570247933884,
+            "words": [
+                [
+                    "lose",
+                    3.0
+                ],
+                [
+                    "mouse",
+                    2.0
+                ],
+                [
+                    "strong",
+                    2.0
+                ],
+                [
+                    "sound",
+                    1.0
+                ],
+                [
+                    "thought",
+                    1.0
+                ],
+                [
+                    "every",
+                    1.0
+                ],
+                [
+                    "body",
+                    1.0
+                ],
+                [
+                    "music",
+                    1.0
+                ],
+                [
+                    "wondering",
+                    1.0
+                ],
+                [
+                    "cushion",
+                    1.0
+                ],
+                [
+                    "found",
+                    1.0
+                ],
+                [
+                    "judgmental",
+                    1.0
+                ],
+                [
+                    "destiny",
+                    1.0
+                ],
+                [
+                    "ones",
+                    1.0
+                ],
+                [
+                    "ahhh",
+                    1.0
+                ],
+                [
+                    "kick",
+                    1.0
+                ],
+                [
+                    "ass",
+                    1.0
+                ],
+                [
+                    "millionaire",
+                    1.0
+                ],
+                [
+                    "jingle",
+                    1.0
+                ],
+                [
+                    "spirit",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.4166666666666667,
+                "Joey Tribbiani": 0.2222222222222222,
+                "Ross Geller": 0.42857142857142855,
+                "Rachel Green": 0.2
+            }
+        },
+        "Scared": {
+            "percentage": 0.15702479338842976,
+            "words": [
+                [
+                    "alive",
+                    3.0
+                ],
+                [
+                    "everyone",
+                    3.0
+                ],
+                [
+                    "monica",
+                    2.5
+                ],
+                [
+                    "knows",
+                    2.0
+                ],
+                [
+                    "always",
+                    2.0
+                ],
+                [
+                    "dentist",
+                    2.0
+                ],
+                [
+                    "lives",
+                    2.0
+                ],
+                [
+                    "phone",
+                    2.0
+                ],
+                [
+                    "hope",
+                    2.0
+                ],
+                [
+                    "fireman",
+                    2.0
+                ],
+                [
+                    "underwear",
+                    2.0
+                ],
+                [
+                    "town",
+                    2.0
+                ],
+                [
+                    "dead",
+                    1.5
+                ],
+                [
+                    "second",
+                    1.5
+                ],
+                [
+                    "playing",
+                    1.5
+                ],
+                [
+                    "keep",
+                    1.5
+                ],
+                [
+                    "terrible",
+                    1.5
+                ],
+                [
+                    "crazy",
+                    1.3333333333333333
+                ],
+                [
+                    "week",
+                    1.0
+                ],
+                [
+                    "nervous",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Richard Burke": 1.0,
+                "Rachel Green": 0.4,
+                "Monica Geller": 1.0909090909090908,
+                "Chandler Bing": 1.0,
+                "Joey Tribbiani": 0.2222222222222222,
+                "Ross Geller": 0.42857142857142855,
+                "Peter Becker": 0.5
+            }
+        },
+        "Peaceful": {
+            "percentage": 0.10950413223140495,
+            "words": [
+                [
+                    "aw",
+                    3.0
+                ],
+                [
+                    "play",
+                    2.0
+                ],
+                [
+                    "sign",
+                    2.0
+                ],
+                [
+                    "smoking",
+                    2.0
+                ],
+                [
+                    "ice",
+                    2.0
+                ],
+                [
+                    "trays",
+                    2.0
+                ],
+                [
+                    "happy",
+                    1.5
+                ],
+                [
+                    "jason",
+                    1.5
+                ],
+                [
+                    "sensitive",
+                    1.5
+                ],
+                [
+                    "questions",
+                    1.0
+                ],
+                [
+                    "warm",
+                    1.0
+                ],
+                [
+                    "babbling",
+                    1.0
+                ],
+                [
+                    "story",
+                    1.0
+                ],
+                [
+                    "lot",
+                    1.0
+                ],
+                [
+                    "weird",
+                    1.0
+                ],
+                [
+                    "girls",
+                    1.0
+                ],
+                [
+                    "excited",
+                    1.0
+                ],
+                [
+                    "friends",
+                    1.0
+                ],
+                [
+                    "living",
+                    1.0
+                ],
+                [
+                    "happening",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 0.5,
+                "Joey Tribbiani": 0.2222222222222222,
+                "Ross Geller": 1.0,
+                "Chandler Bing": 1.0,
+                "Rachel Green": 0.6
+            }
+        },
+        "Sad": {
+            "percentage": 0.09710743801652892,
+            "words": [
+                [
+                    "face",
+                    2.0
+                ],
+                [
+                    "bit",
+                    1.0
+                ],
+                [
+                    "happen",
+                    1.0
+                ],
+                [
+                    "business",
+                    1.0
+                ],
+                [
+                    "sorry",
+                    1.0
+                ],
+                [
+                    "personal",
+                    1.0
+                ],
+                [
+                    "met",
+                    1.0
+                ],
+                [
+                    "worse",
+                    1.0
+                ],
+                [
+                    "accent",
+                    1.0
+                ],
+                [
+                    "understand",
+                    1.0
+                ],
+                [
+                    "giving",
+                    1.0
+                ],
+                [
+                    "far",
+                    1.0
+                ],
+                [
+                    "thought",
+                    1.0
+                ],
+                [
+                    "brother",
+                    1.0
+                ],
+                [
+                    "connected",
+                    1.0
+                ],
+                [
+                    "keys",
+                    1.0
+                ],
+                [
+                    "ewww",
+                    1.0
+                ],
+                [
+                    "mattress",
+                    1.0
+                ],
+                [
+                    "victim",
+                    1.0
+                ],
+                [
+                    "suck",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Joey Tribbiani": 0.2222222222222222,
+                "Monica Geller": 0.08333333333333333,
+                "Ross Geller": 1.0,
+                "Rachel Green": 0.8,
+                "Chandler Bing": 0.5
+            }
+        }
+    },
+    "Joey Tribbiani": {
+        "Joyful": {
+            "percentage": 0.2660332541567696,
+            "words": [
+                [
+                    "amazing",
+                    4.0
+                ],
+                [
+                    "kate",
+                    4.0
+                ],
+                [
+                    "pocket",
+                    3.0
+                ],
+                [
+                    "trees",
+                    3.0
+                ],
+                [
+                    "nine",
+                    3.0
+                ],
+                [
+                    "eight",
+                    3.0
+                ],
+                [
+                    "together",
+                    2.0
+                ],
+                [
+                    "sex",
+                    2.0
+                ],
+                [
+                    "able",
+                    2.0
+                ],
+                [
+                    "cry",
+                    2.0
+                ],
+                [
+                    "start",
+                    2.0
+                ],
+                [
+                    "christmas",
+                    2.0
+                ],
+                [
+                    "ten",
+                    2.0
+                ],
+                [
+                    "show",
+                    2.0
+                ],
+                [
+                    "york",
+                    2.0
+                ],
+                [
+                    "home",
+                    2.0
+                ],
+                [
+                    "gave",
+                    2.0
+                ],
+                [
+                    "duck",
+                    2.0
+                ],
+                [
+                    "morning",
+                    1.5
+                ],
+                [
+                    "kiss",
+                    1.5
+                ]
+            ],
+            "characters": {
+                "Chandler Bing": 0.47368421052631576,
+                "Janice Litman Goralnik": 0.2857142857142857,
+                "Rachel Green": 0.5,
+                "Ross Geller": 0.375,
+                "Phoebe Buffay": 0.8,
+                "Monica Geller": 2.0,
+                "Peter Becker": 1.0
+            }
+        },
+        "Neutral": {
+            "percentage": 0.2660332541567696,
+            "words": [
+                [
+                    "breaking",
+                    3.0
+                ],
+                [
+                    "agent",
+                    3.0
+                ],
+                [
+                    "question",
+                    3.0
+                ],
+                [
+                    "eyes",
+                    3.0
+                ],
+                [
+                    "glass",
+                    2.0
+                ],
+                [
+                    "hear",
+                    2.0
+                ],
+                [
+                    "acting",
+                    2.0
+                ],
+                [
+                    "sure",
+                    1.6666666666666667
+                ],
+                [
+                    "matter",
+                    1.5
+                ],
+                [
+                    "janice",
+                    1.3333333333333333
+                ],
+                [
+                    "listen",
+                    1.25
+                ],
+                [
+                    "ah",
+                    1.2307692307692308
+                ],
+                [
+                    "without",
+                    1.0
+                ],
+                [
+                    "chandler",
+                    1.0
+                ],
+                [
+                    "stand",
+                    1.0
+                ],
+                [
+                    "means",
+                    1.0
+                ],
+                [
+                    "kinda",
+                    1.0
+                ],
+                [
+                    "point",
+                    1.0
+                ],
+                [
+                    "stopped",
+                    1.0
+                ],
+                [
+                    "coffee",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 1.4,
+                "Chandler Bing": 2.111111111111111,
+                "Ross Geller": 1.6,
+                "Phoebe Buffay": 1.25,
+                "Monica Geller": 0.5,
+                "Rachel Green": 0.25
+            }
+        },
+        "Mad": {
+            "percentage": 0.0831353919239905,
+            "words": [
+                [
+                    "fat",
+                    3.0
+                ],
+                [
+                    "laughing",
+                    2.0
+                ],
+                [
+                    "king",
+                    2.0
+                ],
+                [
+                    "kill",
+                    2.0
+                ],
+                [
+                    "hang",
+                    2.0
+                ],
+                [
+                    "actress",
+                    2.0
+                ],
+                [
+                    "remember",
+                    1.0
+                ],
+                [
+                    "guy",
+                    1.0
+                ],
+                [
+                    "count",
+                    1.0
+                ],
+                [
+                    "rushmore",
+                    1.0
+                ],
+                [
+                    "starts",
+                    1.0
+                ],
+                [
+                    "pull",
+                    1.0
+                ],
+                [
+                    "arm",
+                    1.0
+                ],
+                [
+                    "throw",
+                    1.0
+                ],
+                [
+                    "painted",
+                    1.0
+                ],
+                [
+                    "mountain",
+                    1.0
+                ],
+                [
+                    "drank",
+                    1.0
+                ],
+                [
+                    "half",
+                    1.0
+                ],
+                [
+                    "hour",
+                    1.0
+                ],
+                [
+                    "cider",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Rachel Green": 0.5,
+                "Janice Litman Goralnik": 0.42857142857142855,
+                "Chandler Bing": 0.3157894736842105,
+                "Ross Geller": 0.375,
+                "Phoebe Buffay": 0.3
+            }
+        },
+        "Sad": {
+            "percentage": 0.0831353919239905,
+            "words": [
+                [
+                    "things",
+                    1.5
+                ],
+                [
+                    "ta",
+                    1.0
+                ],
+                [
+                    "wear",
+                    1.0
+                ],
+                [
+                    "weeks",
+                    1.0
+                ],
+                [
+                    "bank",
+                    1.0
+                ],
+                [
+                    "sold",
+                    1.0
+                ],
+                [
+                    "unit",
+                    1.0
+                ],
+                [
+                    "tribianni",
+                    1.0
+                ],
+                [
+                    "nobody",
+                    1.0
+                ],
+                [
+                    "wants",
+                    1.0
+                ],
+                [
+                    "met",
+                    1.0
+                ],
+                [
+                    "happen",
+                    1.0
+                ],
+                [
+                    "appreciate",
+                    1.0
+                ],
+                [
+                    "estelle",
+                    1.0
+                ],
+                [
+                    "usually",
+                    1.0
+                ],
+                [
+                    "tea",
+                    1.0
+                ],
+                [
+                    "sometimes",
+                    1.0
+                ],
+                [
+                    "liked",
+                    1.0
+                ],
+                [
+                    "jerk",
+                    1.0
+                ],
+                [
+                    "fulfil",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.25,
+                "Janice Litman Goralnik": 0.14285714285714285,
+                "Chandler Bing": 0.15789473684210525,
+                "Phoebe Buffay": 0.1,
+                "Monica Geller": 0.16666666666666666,
+                "Rachel Green": 0.25
+            }
+        },
+        "Peaceful": {
+            "percentage": 0.09738717339667459,
+            "words": [
+                [
+                    "actor",
+                    2.0
+                ],
+                [
+                    "gay",
+                    2.0
+                ],
+                [
+                    "whoa",
+                    1.3333333333333333
+                ],
+                [
+                    "drive",
+                    1.0
+                ],
+                [
+                    "nuts",
+                    1.0
+                ],
+                [
+                    "remember",
+                    1.0
+                ],
+                [
+                    "sleep",
+                    1.0
+                ],
+                [
+                    "chinese",
+                    1.0
+                ],
+                [
+                    "food",
+                    1.0
+                ],
+                [
+                    "competition",
+                    1.0
+                ],
+                [
+                    "buddy",
+                    1.0
+                ],
+                [
+                    "part",
+                    1.0
+                ],
+                [
+                    "unit",
+                    1.0
+                ],
+                [
+                    "mail",
+                    1.0
+                ],
+                [
+                    "nothing",
+                    1.0
+                ],
+                [
+                    "dingy",
+                    1.0
+                ],
+                [
+                    "fairly",
+                    1.0
+                ],
+                [
+                    "neat",
+                    1.0
+                ],
+                [
+                    "tv",
+                    1.0
+                ],
+                [
+                    "worry",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.5714285714285714,
+                "Chandler Bing": 0.3157894736842105,
+                "Phoebe Buffay": 0.3,
+                "Monica Geller": 0.16666666666666666,
+                "Rachel Green": 2.0,
+                "Ross Geller": 0.25,
+                "Peter Becker": 1.0
+            }
+        },
+        "Scared": {
+            "percentage": 0.1187648456057007,
+            "words": [
+                [
+                    "careful",
+                    2.0
+                ],
+                [
+                    "lemonade",
+                    2.0
+                ],
+                [
+                    "might",
+                    2.0
+                ],
+                [
+                    "device",
+                    2.0
+                ],
+                [
+                    "taking",
+                    1.0
+                ],
+                [
+                    "nooo",
+                    1.0
+                ],
+                [
+                    "four",
+                    1.0
+                ],
+                [
+                    "forever",
+                    1.0
+                ],
+                [
+                    "stood",
+                    1.0
+                ],
+                [
+                    "fast",
+                    1.0
+                ],
+                [
+                    "rush",
+                    1.0
+                ],
+                [
+                    "tough",
+                    1.0
+                ],
+                [
+                    "combination",
+                    1.0
+                ],
+                [
+                    "pearls",
+                    1.0
+                ],
+                [
+                    "difficult",
+                    1.0
+                ],
+                [
+                    "experience",
+                    1.0
+                ],
+                [
+                    "area",
+                    1.0
+                ],
+                [
+                    "poke",
+                    1.0
+                ],
+                [
+                    "window",
+                    1.0
+                ],
+                [
+                    "dude",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Janice Litman Goralnik": 0.7142857142857143,
+                "Ross Geller": 0.625,
+                "Monica Geller": 0.5,
+                "Chandler Bing": 0.3684210526315789,
+                "Rachel Green": 0.5,
+                "Phoebe Buffay": 0.1
+            }
+        },
+        "Powerful": {
+            "percentage": 0.0855106888361045,
+            "words": [
+                [
+                    "relax",
+                    2.0
+                ],
+                [
+                    "audition",
+                    2.0
+                ],
+                [
+                    "trail",
+                    2.0
+                ],
+                [
+                    "takes",
+                    1.0
+                ],
+                [
+                    "us",
+                    1.0
+                ],
+                [
+                    "dressed",
+                    1.0
+                ],
+                [
+                    "agents",
+                    1.0
+                ],
+                [
+                    "estelle",
+                    1.0
+                ],
+                [
+                    "another",
+                    1.0
+                ],
+                [
+                    "accent",
+                    1.0
+                ],
+                [
+                    "started",
+                    1.0
+                ],
+                [
+                    "building",
+                    1.0
+                ],
+                [
+                    "decided",
+                    1.0
+                ],
+                [
+                    "step",
+                    1.0
+                ],
+                [
+                    "tiles",
+                    1.0
+                ],
+                [
+                    "faster",
+                    1.0
+                ],
+                [
+                    "bet",
+                    1.0
+                ],
+                [
+                    "ya",
+                    1.0
+                ],
+                [
+                    "fit",
+                    1.0
+                ],
+                [
+                    "mister",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.375,
+                "Phoebe Buffay": 0.1,
+                "Chandler Bing": 0.21052631578947367,
+                "Monica Geller": 0.16666666666666666,
+                "Rachel Green": 0.5
+            }
+        }
+    },
+    "Rachel Green": {
+        "Peaceful": {
+            "percentage": 0.08788598574821853,
+            "words": [
+                [
+                    "freezer",
+                    2.0
+                ],
+                [
+                    "maybe",
+                    1.3333333333333333
+                ],
+                [
+                    "nooo",
+                    1.0
+                ],
+                [
+                    "romantic",
+                    1.0
+                ],
+                [
+                    "wondering",
+                    1.0
+                ],
+                [
+                    "hmm",
+                    1.0
+                ],
+                [
+                    "minute",
+                    1.0
+                ],
+                [
+                    "lucky",
+                    1.0
+                ],
+                [
+                    "sleeping",
+                    1.0
+                ],
+                [
+                    "elizabeth",
+                    1.0
+                ],
+                [
+                    "hurely",
+                    1.0
+                ],
+                [
+                    "love",
+                    1.0
+                ],
+                [
+                    "cares",
+                    1.0
+                ],
+                [
+                    "much",
+                    1.0
+                ],
+                [
+                    "pretend",
+                    1.0
+                ],
+                [
+                    "promise",
+                    1.0
+                ],
+                [
+                    "promised",
+                    1.0
+                ],
+                [
+                    "die",
+                    1.0
+                ],
+                [
+                    "heard",
+                    1.0
+                ],
+                [
+                    "kaplan",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.21212121212121213,
+                "Chandler Bing": 0.4,
+                "Janice Litman Goralnik": 0.3333333333333333,
+                "Phoebe Buffay": 0.16666666666666666,
+                "Joey Tribbiani": 0.5,
+                "Monica Geller": 0.2857142857142857,
+                "Peter Becker": 0.3333333333333333
+            }
+        },
+        "Neutral": {
+            "percentage": 0.27078384798099764,
+            "words": [
+                [
+                    "hand",
+                    3.0
+                ],
+                [
+                    "earlier",
+                    2.0
+                ],
+                [
+                    "tomorrow",
+                    2.0
+                ],
+                [
+                    "joanna",
+                    2.0
+                ],
+                [
+                    "ready",
+                    2.0
+                ],
+                [
+                    "use",
+                    2.0
+                ],
+                [
+                    "help",
+                    1.5
+                ],
+                [
+                    "put",
+                    1.5
+                ],
+                [
+                    "joey",
+                    1.3333333333333333
+                ],
+                [
+                    "hello",
+                    1.3333333333333333
+                ],
+                [
+                    "pheebs",
+                    1.0
+                ],
+                [
+                    "nights",
+                    1.0
+                ],
+                [
+                    "row",
+                    1.0
+                ],
+                [
+                    "remember",
+                    1.0
+                ],
+                [
+                    "dressed",
+                    1.0
+                ],
+                [
+                    "docks",
+                    1.0
+                ],
+                [
+                    "emergencies",
+                    1.0
+                ],
+                [
+                    "pretend",
+                    1.0
+                ],
+                [
+                    "agents",
+                    1.0
+                ],
+                [
+                    "milk",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Phoebe Buffay": 1.5,
+                "Monica Geller": 0.7142857142857143,
+                "Janice Litman Goralnik": 3.0,
+                "Chandler Bing": 1.4285714285714286,
+                "Joey Tribbiani": 1.5,
+                "Ross Geller": 0.42424242424242425,
+                "Gunther": 0.5,
+                "Peter Becker": 0.3333333333333333
+            }
+        },
+        "Joyful": {
+            "percentage": 0.21377672209026127,
+            "words": [
+                [
+                    "mon",
+                    3.0
+                ],
+                [
+                    "money",
+                    2.5
+                ],
+                [
+                    "realise",
+                    2.0
+                ],
+                [
+                    "line",
+                    2.0
+                ],
+                [
+                    "pretty",
+                    1.5
+                ],
+                [
+                    "else",
+                    1.5
+                ],
+                [
+                    "bonnie",
+                    1.5
+                ],
+                [
+                    "seen",
+                    1.0
+                ],
+                [
+                    "uniform",
+                    1.0
+                ],
+                [
+                    "oooh",
+                    1.0
+                ],
+                [
+                    "carol",
+                    1.0
+                ],
+                [
+                    "sexy",
+                    1.0
+                ],
+                [
+                    "wow",
+                    1.0
+                ],
+                [
+                    "jumping",
+                    1.0
+                ],
+                [
+                    "sounds",
+                    1.0
+                ],
+                [
+                    "touch",
+                    1.0
+                ],
+                [
+                    "unbelievable",
+                    1.0
+                ],
+                [
+                    "fall",
+                    1.0
+                ],
+                [
+                    "daddy",
+                    1.0
+                ],
+                [
+                    "difficult",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Monica Geller": 1.4,
+                "Janice Litman Goralnik": 0.3333333333333333,
+                "Joey Tribbiani": 0.6666666666666666,
+                "Ross Geller": 0.45454545454545453,
+                "Phoebe Buffay": 0.08333333333333333,
+                "Gunther": 2.0,
+                "Peter Becker": 3.0,
+                "Chandler Bing": 0.3
+            }
+        },
+        "Scared": {
+            "percentage": 0.09501187648456057,
+            "words": [
+                [
+                    "call",
+                    1.3333333333333333
+                ],
+                [
+                    "shhh",
+                    1.0
+                ],
+                [
+                    "coffee",
+                    1.0
+                ],
+                [
+                    "died",
+                    1.0
+                ],
+                [
+                    "stopping",
+                    1.0
+                ],
+                [
+                    "bump",
+                    1.0
+                ],
+                [
+                    "fairly",
+                    1.0
+                ],
+                [
+                    "showing",
+                    1.0
+                ],
+                [
+                    "poking",
+                    1.0
+                ],
+                [
+                    "mind",
+                    1.0
+                ],
+                [
+                    "paying",
+                    1.0
+                ],
+                [
+                    "dues",
+                    1.0
+                ],
+                [
+                    "learn",
+                    1.0
+                ],
+                [
+                    "fashion",
+                    1.0
+                ],
+                [
+                    "walking",
+                    1.0
+                ],
+                [
+                    "nooo",
+                    1.0
+                ],
+                [
+                    "leaving",
+                    1.0
+                ],
+                [
+                    "ceiling",
+                    1.0
+                ],
+                [
+                    "ugh",
+                    1.0
+                ],
+                [
+                    "save",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.18181818181818182,
+                "Phoebe Buffay": 0.25,
+                "Monica Geller": 0.2857142857142857,
+                "Chandler Bing": 0.2
+            }
+        },
+        "Sad": {
+            "percentage": 0.09501187648456057,
+            "words": [
+                [
+                    "break",
+                    1.25
+                ],
+                [
+                    "missing",
+                    1.0
+                ],
+                [
+                    "someone",
+                    1.0
+                ],
+                [
+                    "sorry",
+                    1.0
+                ],
+                [
+                    "try",
+                    1.0
+                ],
+                [
+                    "already",
+                    1.0
+                ],
+                [
+                    "mother",
+                    1.0
+                ],
+                [
+                    "room",
+                    1.0
+                ],
+                [
+                    "pain",
+                    1.0
+                ],
+                [
+                    "shoot",
+                    1.0
+                ],
+                [
+                    "monday",
+                    1.0
+                ],
+                [
+                    "nights",
+                    1.0
+                ],
+                [
+                    "gee",
+                    1.0
+                ],
+                [
+                    "heard",
+                    1.0
+                ],
+                [
+                    "club",
+                    1.0
+                ],
+                [
+                    "blew",
+                    1.0
+                ],
+                [
+                    "terry",
+                    1.0
+                ],
+                [
+                    "waitress",
+                    1.0
+                ],
+                [
+                    "experience",
+                    1.0
+                ],
+                [
+                    "teaching",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.3333333333333333,
+                "Phoebe Buffay": 0.25
+            }
+        },
+        "Mad": {
+            "percentage": 0.18527315914489312,
+            "words": [
+                [
+                    "ross",
+                    4.0
+                ],
+                [
+                    "bald",
+                    4.0
+                ],
+                [
+                    "job",
+                    3.5
+                ],
+                [
+                    "girl",
+                    3.0
+                ],
+                [
+                    "getting",
+                    2.0
+                ],
+                [
+                    "gunther",
+                    2.0
+                ],
+                [
+                    "hate",
+                    2.0
+                ],
+                [
+                    "quit",
+                    2.0
+                ],
+                [
+                    "funny",
+                    1.5
+                ],
+                [
+                    "friend",
+                    1.5
+                ],
+                [
+                    "since",
+                    1.5
+                ],
+                [
+                    "tell",
+                    1.0
+                ],
+                [
+                    "alone",
+                    1.0
+                ],
+                [
+                    "along",
+                    1.0
+                ],
+                [
+                    "eh",
+                    1.0
+                ],
+                [
+                    "please",
+                    1.0
+                ],
+                [
+                    "worked",
+                    1.0
+                ],
+                [
+                    "years",
+                    1.0
+                ],
+                [
+                    "loud",
+                    1.0
+                ],
+                [
+                    "stick",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 2.2,
+                "Phoebe Buffay": 0.6666666666666666,
+                "Monica Geller": 0.42857142857142855,
+                "Gunther": 0.5,
+                "Joey Tribbiani": 0.3333333333333333,
+                "Chandler Bing": 0.7,
+                "Peter Becker": 0.3333333333333333
+            }
+        },
+        "Powerful": {
+            "percentage": 0.052256532066508314,
+            "words": [
+                [
+                    "watched",
+                    4.0
+                ],
+                [
+                    "figure",
+                    1.0
+                ],
+                [
+                    "wearing",
+                    1.0
+                ],
+                [
+                    "giving",
+                    1.0
+                ],
+                [
+                    "isabella",
+                    1.0
+                ],
+                [
+                    "rosselini",
+                    1.0
+                ],
+                [
+                    "geography",
+                    1.0
+                ],
+                [
+                    "speak",
+                    1.0
+                ],
+                [
+                    "assume",
+                    1.0
+                ],
+                [
+                    "true",
+                    1.0
+                ],
+                [
+                    "hmm",
+                    1.0
+                ],
+                [
+                    "copy",
+                    1.0
+                ],
+                [
+                    "shining",
+                    1.0
+                ],
+                [
+                    "city",
+                    1.0
+                ],
+                [
+                    "pull",
+                    1.0
+                ],
+                [
+                    "pants",
+                    1.0
+                ],
+                [
+                    "count",
+                    1.0
+                ],
+                [
+                    "butt",
+                    1.0
+                ],
+                [
+                    "suit",
+                    1.0
+                ],
+                [
+                    "point",
+                    1.0
+                ]
+            ],
+            "characters": {
+                "Ross Geller": 0.15151515151515152,
+                "Chandler Bing": 0.3,
+                "Monica Geller": 0.2857142857142857,
+                "Joey Tribbiani": 0.16666666666666666
+            }
+        }
+    }
+}
