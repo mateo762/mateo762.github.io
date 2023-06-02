@@ -1343,29 +1343,6 @@
             ]
         },
         {
-            "source": "Monica Geller",
-            "target": "Mike Hannigan",
-            "value": 25,
-            "phrases": [
-                [
-                    "text",
-                    1.0
-                ],
-                [
-                    "matches",
-                    1.0
-                ],
-                [
-                    "mateo",
-                    1.0
-                ]
-            ],
-            "number_words": [
-                0,
-                0
-            ]
-        },
-        {
             "source": "Chandler Bing",
             "target": "Joey Tribbiani",
             "value": 172,
@@ -1727,29 +1704,6 @@
             "number_words": [
                 251,
                 51
-            ]
-        },
-        {
-            "source": "Chandler Bing",
-            "target": "Mike Hannigan",
-            "value": 18,
-            "phrases": [
-                [
-                    "text",
-                    1.0
-                ],
-                [
-                    "matches",
-                    1.0
-                ],
-                [
-                    "mateo",
-                    1.0
-                ]
-            ],
-            "number_words": [
-                0,
-                0
             ]
         },
         {
@@ -2478,29 +2432,6 @@
             "number_words": [
                 1755,
                 1635
-            ]
-        },
-        {
-            "source": "Rachel Green",
-            "target": "Charlie Wheeler",
-            "value": 20,
-            "phrases": [
-                [
-                    "text",
-                    1.0
-                ],
-                [
-                    "matches",
-                    1.0
-                ],
-                [
-                    "mateo",
-                    1.0
-                ]
-            ],
-            "number_words": [
-                0,
-                0
             ]
         },
         {
