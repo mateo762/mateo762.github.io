@@ -2527,21 +2527,6 @@
         },
         {
             "source": "Joey Tribbiani",
-            "target": "Mike Hannigan",
-            "value": 19,
-            "phrases": [
-                [
-                    "mike",
-                    0.07142857142857142
-                ]
-            ],
-            "number_words": [
-                6,
-                2
-            ]
-        },
-        {
-            "source": "Joey Tribbiani",
             "target": "Charlie Wheeler",
             "value": 18,
             "phrases": [
