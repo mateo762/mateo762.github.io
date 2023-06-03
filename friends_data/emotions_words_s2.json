@@ -467,8 +467,8 @@
                 ]
             ],
             "characters": {
-                "Rachel Green": 0.46153846153846156,
                 "Chandler Bing": 0.4,
+                "Rachel Green": 0.46153846153846156,
                 "Phoebe Buffay": 0.14285714285714285,
                 "Joey Tribbiani": 0.6,
                 "Susan Bunch": 0.25
@@ -562,8 +562,8 @@
                 "Rachel Green": 0.8461538461538461,
                 "Joey Tribbiani": 1.25,
                 "Monica Geller": 0.3333333333333333,
-                "Judy Geller": 0.4,
                 "Jack Geller": 0.25,
+                "Judy Geller": 0.4,
                 "Chandler Bing": 0.4
             }
         },
@@ -655,11 +655,11 @@
                 "Carol Willick": 0.14285714285714285,
                 "Phoebe Buffay": 0.2857142857142857,
                 "Susan Bunch": 0.25,
-                "Monica Geller": 0.2222222222222222,
                 "Jack Geller": 0.25,
+                "Monica Geller": 0.2222222222222222,
                 "Rachel Green": 0.07692307692307693,
-                "Chandler Bing": 0.4,
-                "Joey Tribbiani": 0.4
+                "Joey Tribbiani": 0.4,
+                "Chandler Bing": 0.4
             }
         }
     },
@@ -2053,8 +2053,8 @@
             ],
             "characters": {
                 "Chandler Bing": 0.3333333333333333,
-                "Rachel Green": 0.2857142857142857,
                 "Monica Geller": 0.2222222222222222,
+                "Rachel Green": 0.2857142857142857,
                 "Joey Tribbiani": 0.14285714285714285,
                 "Ross Geller": 0.1111111111111111
             }
@@ -2328,8 +2328,8 @@
                 ]
             ],
             "characters": {
-                "Rachel Green": 0.2857142857142857,
                 "Monica Geller": 0.1111111111111111,
+                "Rachel Green": 0.2857142857142857,
                 "Ross Geller": 0.4444444444444444,
                 "Joey Tribbiani": 0.5714285714285714,
                 "Richard Burke": 0.25
@@ -2689,11 +2689,11 @@
                     1.3333333333333333
                 ],
                 [
-                    "wait",
-                    1.25
+                    "sixteen",
+                    1.0
                 ],
                 [
-                    "sixteen",
+                    "bigger",
                     1.0
                 ]
             ],
@@ -2975,8 +2975,8 @@
             ],
             "characters": {
                 "Chandler Bing": 1.6,
-                "Rachel Green": 1.0,
                 "Monica Geller": 1.25,
+                "Rachel Green": 1.0,
                 "Ross Geller": 2.0,
                 "Phoebe Buffay": 1.4,
                 "Gunther": 1.0,
@@ -3068,8 +3068,8 @@
                 ]
             ],
             "characters": {
-                "Phoebe Buffay": 0.42857142857142855,
                 "Chandler Bing": 0.25,
+                "Phoebe Buffay": 0.42857142857142855,
                 "Ross Geller": 0.16666666666666666,
                 "Monica Geller": 0.2
             }
@@ -3436,8 +3436,8 @@
                 ]
             ],
             "characters": {
-                "Ross Geller": 0.4782608695652174,
                 "Chandler Bing": 0.6666666666666666,
+                "Ross Geller": 0.4782608695652174,
                 "Phoebe Buffay": 0.26666666666666666,
                 "Monica Geller": 0.125
             }
@@ -3744,10 +3744,6 @@
                     1.0
                 ],
                 [
-                    "minute",
-                    1.0
-                ],
-                [
                     "skin",
                     1.0
                 ],
@@ -3798,14 +3794,18 @@
                 [
                     "borrow",
                     0.5
+                ],
+                [
+                    "phone",
+                    0.5
                 ]
             ],
             "characters": {
                 "Phoebe Buffay": 0.13333333333333333,
                 "Monica Geller": 0.25,
                 "Ross Geller": 0.13043478260869565,
-                "Chandler Bing": 0.3333333333333333,
-                "Joey Tribbiani": 0.5
+                "Joey Tribbiani": 0.5,
+                "Chandler Bing": 0.3333333333333333
             }
         },
         "Sad": {

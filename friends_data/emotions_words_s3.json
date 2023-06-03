@@ -466,8 +466,8 @@
                 "Joey Tribbiani": 1.0,
                 "Chandler Bing": 0.6666666666666666,
                 "Monica Geller": 1.5,
-                "Carol Willick": 1.0,
-                "Susan Bunch": 1.0
+                "Susan Bunch": 1.0,
+                "Carol Willick": 1.0
             }
         },
         "Mad": {
@@ -744,10 +744,10 @@
                 ]
             ],
             "characters": {
-                "Phoebe Buffay": 0.375,
                 "Richard Burke": 0.4,
-                "Rachel Green": 1.0,
+                "Phoebe Buffay": 0.375,
                 "Chandler Bing": 1.0,
+                "Rachel Green": 1.0,
                 "Joey Tribbiani": 0.75,
                 "Ross Geller": 0.8571428571428571,
                 "Peter Becker": 1.25
@@ -1029,8 +1029,8 @@
             "characters": {
                 "Jack Geller": 0.6666666666666666,
                 "Ross Geller": 1.1666666666666667,
-                "Richard Burke": 1.25,
                 "Joey Tribbiani": 1.1428571428571428,
+                "Richard Burke": 1.25,
                 "Phoebe Buffay": 0.375,
                 "Chandler Bing": 0.8,
                 "Janice Litman Goralnik": 1.0,
@@ -1124,8 +1124,8 @@
             ],
             "characters": {
                 "Richard Burke": 0.4,
-                "Janice Litman Goralnik": 1.0,
                 "Chandler Bing": 0.2,
+                "Janice Litman Goralnik": 1.0,
                 "Ross Geller": 0.5714285714285714,
                 "Phoebe Buffay": 0.25,
                 "Joey Tribbiani": 0.25,
@@ -1786,8 +1786,8 @@
                 "Ross Geller": 0.375,
                 "Phoebe Buffay": 0.3333333333333333,
                 "Gunther": 0.5,
-                "Peter Becker": 3.0,
-                "Monica Geller": 0.3333333333333333
+                "Monica Geller": 0.3333333333333333,
+                "Peter Becker": 3.0
             }
         },
         "Joyful": {
@@ -2140,10 +2140,6 @@
                     1.2
                 ],
                 [
-                    "wait",
-                    1.2
-                ],
-                [
                     "something",
                     1.2
                 ],
@@ -2153,6 +2149,10 @@
                 ],
                 [
                     "young",
+                    1.0
+                ],
+                [
+                    "tiny",
                     1.0
                 ]
             ],
@@ -2251,8 +2251,8 @@
             ],
             "characters": {
                 "Monica Geller": 0.6666666666666666,
-                "Chandler Bing": 1.0,
                 "Joey Tribbiani": 0.4444444444444444,
+                "Chandler Bing": 1.0,
                 "Ross Geller": 0.14285714285714285,
                 "Peter Becker": 0.5,
                 "Rachel Green": 0.4
@@ -2901,8 +2901,8 @@
                 ]
             ],
             "characters": {
-                "Rachel Green": 0.5,
                 "Janice Litman Goralnik": 0.42857142857142855,
+                "Rachel Green": 0.5,
                 "Chandler Bing": 0.3157894736842105,
                 "Ross Geller": 0.375,
                 "Phoebe Buffay": 0.3
@@ -2993,9 +2993,9 @@
                 ]
             ],
             "characters": {
-                "Ross Geller": 0.25,
                 "Janice Litman Goralnik": 0.14285714285714285,
                 "Chandler Bing": 0.15789473684210525,
+                "Ross Geller": 0.25,
                 "Phoebe Buffay": 0.1,
                 "Monica Geller": 0.16666666666666666,
                 "Rachel Green": 0.25
@@ -3086,8 +3086,8 @@
                 ]
             ],
             "characters": {
-                "Janice Litman Goralnik": 0.5714285714285714,
                 "Chandler Bing": 0.3157894736842105,
+                "Janice Litman Goralnik": 0.5714285714285714,
                 "Phoebe Buffay": 0.3,
                 "Monica Geller": 0.16666666666666666,
                 "Rachel Green": 2.0,
@@ -3310,10 +3310,6 @@
                     1.0
                 ],
                 [
-                    "minute",
-                    1.0
-                ],
-                [
                     "lucky",
                     1.0
                 ],
@@ -3363,6 +3359,10 @@
                 ],
                 [
                     "kaplan",
+                    1.0
+                ],
+                [
+                    "often",
                     1.0
                 ]
             ],
@@ -3463,9 +3463,9 @@
             "characters": {
                 "Phoebe Buffay": 1.5,
                 "Monica Geller": 0.7142857142857143,
+                "Joey Tribbiani": 1.5,
                 "Janice Litman Goralnik": 3.0,
                 "Chandler Bing": 1.4285714285714286,
-                "Joey Tribbiani": 1.5,
                 "Ross Geller": 0.42424242424242425,
                 "Gunther": 0.5,
                 "Peter Becker": 0.3333333333333333
@@ -3557,8 +3557,8 @@
             ],
             "characters": {
                 "Monica Geller": 1.4,
-                "Janice Litman Goralnik": 0.3333333333333333,
                 "Joey Tribbiani": 0.6666666666666666,
+                "Janice Litman Goralnik": 0.3333333333333333,
                 "Ross Geller": 0.45454545454545453,
                 "Phoebe Buffay": 0.08333333333333333,
                 "Gunther": 2.0,

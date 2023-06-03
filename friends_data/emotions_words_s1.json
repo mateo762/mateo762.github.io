@@ -64,10 +64,6 @@
                     1.0
                 ],
                 [
-                    "minute",
-                    1.0
-                ],
-                [
                     "title",
                     1.0
                 ],
@@ -81,6 +77,10 @@
                 ],
                 [
                     "gets",
+                    1.0
+                ],
+                [
+                    "ways",
                     1.0
                 ]
             ],
@@ -552,8 +552,8 @@
             ],
             "characters": {
                 "Monica Geller": 0.6666666666666666,
-                "Phoebe Buffay": 1.6666666666666667,
                 "Joey Tribbiani": 0.8181818181818182,
+                "Phoebe Buffay": 1.6666666666666667,
                 "Chandler Bing": 0.25,
                 "Rachel Green": 0.16666666666666666,
                 "Jack Geller": 0.6666666666666666,
@@ -1104,8 +1104,8 @@
             ],
             "characters": {
                 "Rachel Green": 1.8888888888888888,
-                "Ross Geller": 0.9333333333333333,
                 "Phoebe Buffay": 2.4,
+                "Ross Geller": 0.9333333333333333,
                 "Joey Tribbiani": 2.4,
                 "Chandler Bing": 3.0
             }
@@ -1476,8 +1476,8 @@
             ],
             "characters": {
                 "Rachel Green": 3.0,
-                "Ross Geller": 1.3333333333333333,
                 "Joey Tribbiani": 1.75,
+                "Ross Geller": 1.3333333333333333,
                 "Janice Litman Goralnik": 1.2,
                 "Monica Geller": 1.5,
                 "Phoebe Buffay": 1.6666666666666667
@@ -1661,9 +1661,9 @@
                 ]
             ],
             "characters": {
-                "Ross Geller": 0.25,
-                "Carol Willick": 0.5,
                 "Joey Tribbiani": 0.047619047619047616,
+                "Carol Willick": 0.5,
+                "Ross Geller": 0.25,
                 "Monica Geller": 0.6666666666666666
             }
         },
@@ -1812,10 +1812,6 @@
                 ],
                 [
                     "away",
-                    0.5
-                ],
-                [
-                    "wait",
                     0.5
                 ],
                 [
@@ -2330,10 +2326,6 @@
                     1.0
                 ],
                 [
-                    "minute",
-                    1.0
-                ],
-                [
                     "sweet",
                     1.0
                 ],
@@ -2363,6 +2355,10 @@
                 ],
                 [
                     "either",
+                    1.0
+                ],
+                [
+                    "building",
                     1.0
                 ]
             ],
@@ -3377,8 +3373,8 @@
             "characters": {
                 "Ross Geller": 0.3333333333333333,
                 "Monica Geller": 0.42857142857142855,
-                "Phoebe Buffay": 0.125,
-                "Chandler Bing": 1.0
+                "Chandler Bing": 1.0,
+                "Phoebe Buffay": 0.125
             }
         },
         "Joyful": {

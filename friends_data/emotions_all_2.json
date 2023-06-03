@@ -190,7 +190,6 @@
                 "Phoebe Buffay": 0.26666666666666666,
                 "Susan Bunch": 0.058823529411764705,
                 "Monica Geller": 0.1,
-                "Kathy": 0.3333333333333333,
                 "Emily Waltham": 0.18181818181818182
             }
         },
@@ -287,7 +286,6 @@
                 "Monica Geller": 0.8,
                 "Phoebe Buffay": 0.9333333333333333,
                 "Jack Geller": 0.375,
-                "Kathy": 1.0,
                 "Emily Waltham": 0.9090909090909091
             }
         },
@@ -486,7 +484,6 @@
                 "Judy Geller": 0.2857142857142857,
                 "Richard Burke": 0.5714285714285714,
                 "Peter Becker": 2.0,
-                "Kathy": 0.3333333333333333,
                 "Emily Waltham": 0.18181818181818182
             }
         },
@@ -586,7 +583,6 @@
                 "Richard Burke": 1.75,
                 "Susan Bunch": 0.23529411764705882,
                 "Peter Becker": 0.5,
-                "Kathy": 1.0,
                 "Emily Waltham": 1.1
             }
         },
@@ -978,7 +974,6 @@
                 "Janice Litman Goralnik": 1.0,
                 "Peter Becker": 0.7333333333333333,
                 "Judy Geller": 0.7142857142857143,
-                "Kathy": 2.0,
                 "Emily Waltham": 2.0
             }
         },
@@ -1369,7 +1364,6 @@
                 "Janice Litman Goralnik": 1.0,
                 "Peter Becker": 0.2,
                 "Judy Geller": 0.14285714285714285,
-                "Kathy": 0.5,
                 "Emily Waltham": 0.5
             }
         }
@@ -1468,7 +1462,6 @@
                 "Joey Tribbiani": 0.6309523809523809,
                 "Monica Geller": 0.8125,
                 "Peter Becker": 0.3333333333333333,
-                "Kathy": 1.375,
                 "Emily Waltham": 1.5
             }
         },
@@ -1565,8 +1558,7 @@
                 "Phoebe Buffay": 1.3846153846153846,
                 "Carol Willick": 0.3333333333333333,
                 "Richard Burke": 2.0,
-                "Peter Becker": 0.3333333333333333,
-                "Kathy": 0.6363636363636364
+                "Peter Becker": 0.3333333333333333
             }
         },
         "Scared": {
@@ -1661,8 +1653,7 @@
                 "Janice Litman Goralnik": 0.7222222222222222,
                 "Phoebe Buffay": 0.7222222222222222,
                 "Carol Willick": 0.3333333333333333,
-                "Richard Burke": 0.5,
-                "Kathy": 0.45454545454545453
+                "Richard Burke": 0.5
             }
         },
         "Sad": {
@@ -1757,8 +1748,7 @@
                 "Rachel Green": 0.09090909090909091,
                 "Phoebe Buffay": 0.1111111111111111,
                 "Janice Litman Goralnik": 0.3333333333333333,
-                "Peter Becker": 0.3333333333333333,
-                "Kathy": 0.45454545454545453
+                "Peter Becker": 0.3333333333333333
             }
         },
         "Mad": {
@@ -1852,8 +1842,7 @@
                 "Janice Litman Goralnik": 0.5,
                 "Monica Geller": 0.4375,
                 "Phoebe Buffay": 0.4444444444444444,
-                "Peter Becker": 0.3333333333333333,
-                "Kathy": 0.7272727272727273
+                "Peter Becker": 0.3333333333333333
             }
         },
         "Peaceful": {
@@ -1948,7 +1937,6 @@
                 "Joey Tribbiani": 0.38095238095238093,
                 "Phoebe Buffay": 0.2222222222222222,
                 "Gunther": 2.0,
-                "Kathy": 0.5454545454545454,
                 "Emily Waltham": 0.6666666666666666
             }
         },
@@ -2044,8 +2032,7 @@
                 "Phoebe Buffay": 0.2777777777777778,
                 "Monica Geller": 0.625,
                 "Gunther": 0.5,
-                "Peter Becker": 3.0,
-                "Kathy": 0.36363636363636365
+                "Peter Becker": 3.0
             }
         }
     },
@@ -2235,8 +2222,7 @@
                 "Susan Bunch": 2.0,
                 "Richard Burke": 2.0,
                 "Peter Becker": 2.0,
-                "Judy Geller": 0.5,
-                "Kathy": 0.5
+                "Judy Geller": 0.5
             }
         },
         "Neutral": {
@@ -2331,7 +2317,6 @@
                 "Joey Tribbiani": 0.6923076923076923,
                 "Richard Burke": 0.25,
                 "Judy Geller": 2.0,
-                "Kathy": 2.0,
                 "Janice Litman Goralnik": 1.0,
                 "Emily Waltham": 2.0
             }
@@ -2615,7 +2600,6 @@
                 "Richard Burke": 0.5,
                 "Janice Litman Goralnik": 1.0,
                 "Peter Becker": 0.5,
-                "Kathy": 0.5,
                 "Emily Waltham": 0.5
             }
         },
@@ -2807,7 +2791,6 @@
                 "Rachel Green": 1.0,
                 "Gunther": 3.0,
                 "Richard Burke": 1.0,
-                "Kathy": 0.25,
                 "Emily Waltham": 1.0
             }
         },
@@ -2905,7 +2888,6 @@
                 "Richard Burke": 1.0,
                 "Janice Litman Goralnik": 0.25,
                 "Peter Becker": 1.0,
-                "Kathy": 0.5,
                 "Emily Waltham": 1.0
             }
         },
@@ -3000,8 +2982,7 @@
                 "Phoebe Buffay": 0.20833333333333334,
                 "Monica Geller": 0.047619047619047616,
                 "Richard Burke": 0.5,
-                "Rachel Green": 0.3333333333333333,
-                "Kathy": 0.75
+                "Rachel Green": 0.3333333333333333
             }
         },
         "Powerful": {
@@ -3093,8 +3074,7 @@
                 "Rachel Green": 0.25,
                 "Chandler Bing": 0.3283582089552239,
                 "Phoebe Buffay": 0.2916666666666667,
-                "Monica Geller": 0.19047619047619047,
-                "Kathy": 1.0
+                "Monica Geller": 0.19047619047619047
             }
         },
         "Scared": {
@@ -3281,8 +3261,7 @@
                 "Phoebe Buffay": 0.5,
                 "Rachel Green": 0.5,
                 "Janice Litman Goralnik": 0.5,
-                "Peter Becker": 1.0,
-                "Kathy": 1.0
+                "Peter Becker": 1.0
             }
         },
         "Sad": {
@@ -3476,7 +3455,6 @@
                 "Janice Litman Goralnik": 1.5,
                 "Gunther": 0.3333333333333333,
                 "Peter Becker": 0.3333333333333333,
-                "Kathy": 2.0,
                 "Emily Waltham": 3.0
             }
         },
@@ -3668,7 +3646,6 @@
                 "Carol Willick": 1.0,
                 "Gunther": 3.0,
                 "Peter Becker": 3.0,
-                "Kathy": 0.5,
                 "Emily Waltham": 0.3333333333333333
             }
         },
@@ -3859,7 +3836,6 @@
                 "Chandler Bing": 0.43478260869565216,
                 "Phoebe Buffay": 0.2972972972972973,
                 "Joey Tribbiani": 0.38461538461538464,
-                "Kathy": 0.5,
                 "Emily Waltham": 0.3333333333333333
             }
         },
