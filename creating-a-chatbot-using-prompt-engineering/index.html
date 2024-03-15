@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+
+<head>
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="../img/favicon-16.png">
+	<!-- Author Meta -->
+	<meta name="author" content="Mateo Echeverry">
+	<!-- Meta Description -->
+	<meta name="description" content="A personal website built and deployed by Mateo Echeverry.">
+	<!-- Meta Keyword -->
+	<meta name="keywords" content="portfolio">
+	<!-- meta character set -->
+	<meta charset="UTF-8">
+	<!-- Site Title -->
+	<title>Mateo Echeverry</title>
+
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
+	<!--
+			CSS
+			============================================= -->
+	<link rel="stylesheet" href="../css/linearicons.css">
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+	<link rel="stylesheet" href="../css/bootstrap.css">
+	<link rel="stylesheet" href="../css/magnific-popup.css">
+	<link rel="stylesheet" href="../css/jquery-ui.css">
+	<link rel="stylesheet" href="../css/nice-select.css">
+	<link rel="stylesheet" href="../css/animate.min.css">
+	<link rel="stylesheet" href="../css/owl.carousel.css">
+	<link rel="stylesheet" href="../css/main.css">
+</head>
+
+<body>
+	<header id="header">
+		<div class="container main-menu">
+			<div class="row align-items-center justify-content-between d-flex">
+				<div class id="logo">
+					<!-- <a href="/"><h3>H. Jansma </h3></a> -->
+					<img src="../img/logo.png" />
+				</div>
+				<nav id="nav-menu-container">
+					<ul class="nav-menu">
+						<li><a href="../index.html">
+								<h4>Home</h4>
+							</a></li>
+						<li><a href="../index.html#about">
+								<h4>About</h4>
+							</a></li>
+						<li><a href="../index.html#interests">
+								<h4>Interests</h4>
+							</a></li>
+						<li><a href="../index.html#portfolio">
+								<h4>Portfolio</h4>
+							</a></li>
+						<li><a href="../index.html#platforms">
+								<h4>Platforms</h4>
+							</a></li>
+						<li><a href="../reports/CV.pdf" target="_blank">
+								<h4>CV</h4>
+							</a></li>
+					</ul>
+
+				</nav><!-- #nav-menu-container -->
+			</div>
+		</div>
+	</header><!-- #header -->	
+
+	<!-- Start home-about Area -->
+	<section class="home-about-area section-gap" style="margin-top: 100px;">
+		<div id="about" class="container">
+			<div class="row personal-details">
+                <div class="col-8 mx-auto text-center">
+                <h1 class="text-center">Creating a ChatBot using Prompt Engineering</h1>
+                <br>
+				<br>
+				<br>
+					<p style="color: black;line-height: 1.65;" class="fz-18">
+						In the rapidly evolving digital landscape, engaging with customers in a manner that is both informative and entertaining is crucial for brands looking to stand out. Chatbots, powered by advances in artificial intelligence, have become a popular tool for achieving this engagement. However, the effectiveness of a chatbot hinges on its ability to understand and respond to user queries in a way that reflects the brand's voice and values. This is where prompt engineering comes into play, offering a method to refine chatbot interactions to be more relevant, engaging, and aligned with brand objectives. By carefully designing prompts, we can steer chatbot conversations in directions that enhance customer experience, embody the brand's character, and ensure the delivery of useful information. Let's explore how this approach was applied in a recent demonstration for AB InBev, highlighting the potential of prompt engineering to transform chatbot interactions from mundane to memorable.
+					</p>
+                    <br>
+				<br>
+					<p class="fz-18" style="color: black;line-height: 1.65;">
+						For this demonstration, I will be the latest example I used for my last presentation to AB Inbev, AB Inbev is a big brewery that has beers like Stella, Corona, Budweiser... Our objective is to create a ChatBot that is specialized in the beers of the brand, we want it to be able to give us information about the beers, such as their history, their taste. But we also want it to be fun to interact with, when users use chatbots most of the time, it won't be because they want to know more about the brand, but just because they want to play around with the chatbot to see what kind of answers it gives. It is the company responsability to be able to generate responses that impacts the users being able to create a pleasant customer experience, while providing answers that are morally and ethically correct. How do we do that? With prompt engineering.
+					</p>
+                    <br>
+					<p class="fz-18" style="color: black;line-height: 1.65;">
+                        One of the most straightforward approaches to create such a bot would be something like this:
+					</p>
+                    <br>
+                    <img src="../prompt_engineering/first_prompt.png" alt="Your Image Description" class="img-fluid">
+                    <br>
+					<p class="fz-18" style="color: black;line-height: 1.65;margin-top: 30px">
+                        As we can see the prompt is very straightforward, although the LLM seems to understand quite well his role being a chatbot specialized in AB Inbev's beers. However, it does lack that spicy personality to try to sell you more the brand and its beers, you can see that when we told him that I was going to watch a romantic movie, he could've generated a more fun and creative response, like for example, saying that I should try a specific beer for my movie.
+					</p>
+                    <br>
+					<p class="fz-18" style="color: black;line-height: 1.65;">
+                        The next question that was asked might seem like a joke, but this kind of questions are indeed the most popular kinds of questions that chatbots get, here you can see that it provides quite a default, probably boring response. So we've seen that the LLM is able to understand its role, but it's just lacking the fun and seller vibes. Let's try a different approach to build the prompt. Now we will specify in the prompt 3 simple things:
+					</p>
+                    <br>
+                    <ul class="list-group">
+                        <li class="list-group-item fz-18" style="color: black;line-height: 1.65;"><b>Role:</b> You are a chatbot specialized in AB InBev's beers, who loves to talk about them and recommend them.</li>
+                        <li class="list-group-item fz-18" style="color: black;line-height: 1.65;"><b>Context:</b> Your expertise is in the selection, brewing process, and history of AB InBev's beers. You interact with users that may be looking for more information about certain beers, they might be looking for recommendations, or they might just give random or controversial prompts.</li>
+                        <li class="list-group-item fz-18" style="color: black;line-height: 1.65;"><b>Task:</b> Reply to the questions or prompts of the user, make sure that in every response you touch the topic of AB InBev's beers and try to recommend a specific beer to their situation, even if the question from the user is not related to beers or controversial you should always find a way to smoothly transition to the topic of AB InBev's beers.</li>
+                    </ul>
+                    <br>
+					<p class="fz-18" style="color: black;line-height: 1.65;margin-top: 30px">
+                        Let's see how this new prompt works for us:
+					</p>
+                    <br>
+                    <img src="../prompt_engineering/second_prompt.png" alt="Your Image Description" class="img-fluid">
+                    <br>
+                    <p class="fz-18" style="color: black;line-height: 1.65;margin-top: 30px">
+                        Now we are talking! Check out that when he was told I was going to watch the Guarani FC game (brazilian football club) he immediately not only suggested me to have one of AB InBev's beers, but he also associated the the club is brazilian and he recommended me a brazilian beer. You can also see how differently he answered the question about "the meaning of life", he didn't go deep philosophically and he still made a good response including the concept of the brand. These little details is what makes the customer experience unique when trying out chatbots.
+					</p>
+                    <br>
+                    <p class="fz-18" style="color: black;line-height: 1.65;">
+                        I hope you have liked this blogpost and you found it helpful and interesting.
+					</p>
+                    <br>
+                    <p class="fz-18" style="color: black;line-height: 1.65;">
+                        Mateo.
+					</p>
+                </div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<hr>
+	<!-- Start price Area -->
+	<section class="price-area section-gap">
+		<div id="platforms" class="container">
+			<div class="row d-flex justify-content-center">
+
+				<div class="menu-content pb-20 col-lg-8">
+					<div class="title text-center">
+						<h1 class="mb-10">Other Platforms</h1>
+
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 col-md-6 single-price">
+					<a href="https://github.com/mateo762" target="_blank">
+						<div class="top-part">
+							<img src="../img/github.jpg" height=300 width=300>
+							<h4>GitHub</h4>
+							<p class="mt-10">My base-of-operations for all things code.</p>
+						</div>
+					</a>
+
+
+				</div>
+				<div class="col-lg-6 col-md-6 single-price">
+					<a href="https://www.linkedin.com/in/mateo-echeverry-62a56b42/" target="_blank">
+						<div class="top-part">
+							<img src="../img/linkedin.png" height=300 width=300>
+							<h4>Linkedln</h4>
+							<p class="mt-10">Let's connect! </p>
+						</div>
+					</a>
+
+
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+	<!-- End price Area -->
+
+
+	<!-- start footer Area -->
+	<footer class="footer-area section-gap">
+		<div class="container">
+			<div class="row text-center">
+				<div class="single-footer-widget">
+					<h4>About This Page</h4>
+					<p class="footer-text">
+						This website was coded in HTML, CSS, and Javascript based on a theme from Colorlib. It is hosted
+						on a LAMP server from DigitalOcean. The code can be found <a
+							href="https://github.com/harrisonjansma/cv-website" target="_blank"> here.</a>
+					</p>
+					<p class="footer-text">
+						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						Copyright &copy;
+						<script>document.write(new Date().getFullYear());</script> All rights reserved | This template
+						is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com"
+							target="_blank">Colorlib</a>
+						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					</p>
+				</div>
+	</footer>
+	<!-- End footer Area -->
+
+
+	<script src="../js/vendor/jquery-2.2.4.min.js"></script>
+	<script src="../js/popper.min.js"></script>
+	<script src="../js/vendor/bootstrap.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+	<script src="../js/easing.min.js"></script>
+	<script src="../js/hoverIntent.js"></script>
+	<script src="../js/superfish.min.js"></script>
+	<script src="../js/jquery.ajaxchimp.min.js"></script>
+	<script src="../js/jquery.magnific-popup.min.js"></script>
+	<script src="../js/jquery.tabs.min.js"></script>
+	<script src="../js/jquery.nice-select.min.js"></script>
+	<script src="../js/isotope.pkgd.min.js"></script>
+	<script src="../js/waypoints.min.js"></script>
+	<script src="../js/jquery.counterup.min.js"></script>
+	<script src="../js/simple-skillbar.js"></script>
+	<script src="../js/owl.carousel.min.js"></script>
+	<script src="../js/mail-script.js"></script>
+	<script src="../js/scroll.js"></script>
+	<script src="../js/main.js"></script>
+</body>
+
+</html>
